@@ -23,7 +23,9 @@
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Footstep.uasset",
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Footstep_Cue.uasset",
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/Player/BP_Player.uasset",
-				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/Components/AC_FPSParkour.uasset"
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/Components/AC_FPSParkour.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Jump.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Land.uasset"
 			]
 		}
 	]
