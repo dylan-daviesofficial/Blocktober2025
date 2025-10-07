@@ -25,7 +25,12 @@
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/Player/BP_Player.uasset",
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/Components/AC_FPSParkour.uasset",
 				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Jump.uasset",
-				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Land.uasset"
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Land.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/801042__riforka__sfx_outdoor_floodedwaterflow_underbridge.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/WaterSound.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/WaterSound_Cue.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/WaterSoundAttenuation.uasset",
+				"D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Rain.uasset"
 			]
 		}
 	]
