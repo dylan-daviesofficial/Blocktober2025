@@ -6416,3 +6416,189 @@ Sampler Limit: 32
 [2025.10.08-14.08.39:871][952]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.10.08-14.08.39:871][952]LogShaderCompilers: Display: Material Cache Hits: 20 (3%)
 [2025.10.08-14.08.39:871][952]LogShaderCompilers: Display: ================================================
+[2025.10.08-14.13.01:845][126]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.08-14.13.08:953][247]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.08-14.14.02:050][246]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7351.510254
+[2025.10.08-14.14.02:305][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.08-14.14.02:306][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7351.715332, Update Interval: 309.400909
+[2025.10.08-14.14.11:507][419]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.08-14.14.11:560][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.08-14.14.11:560][419]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.08-14.14.11:568][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007159s)
+[2025.10.08-14.14.11:568][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.007194s)
+[2025.10.08-14.14.11:580][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.08-14.14.11:581][419]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.08-14.14.11:583][419]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2025.10.08-14.14.11:584][419]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.08-14.14.11:584][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.08-14.14.11:584][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.08-14.14.11:584][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.08-14.14.11:584][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.08-14.14.11:584][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.08-14.14.11:586][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.08-14.14.11:612][419]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.08-14.14.11:612][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.08-14.14.11:612][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.08-14.14.11:612][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.08-14.14.11:612][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.08-14.14.11:612][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.08-14.14.11:615][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.08-14.14.11:615][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.08-14.14.11:615][419]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.08-14.14.11:615][419]LogAudio: Display: Audio Device (ID: 6) registered with world 'ParkourMap'.
+[2025.10.08-14.14.11:615][419]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.08-14.14.11:618][419]LogLoad: Game class is 'GameModeBase'
+[2025.10.08-14.14.11:621][419]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.08-15.14.11
+[2025.10.08-14.14.11:622][419]LogWorld: Bringing up level for play took: 0.003652
+[2025.10.08-14.14.11:624][419]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.10.08-14.14.11:626][419]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.08-14.14.11:626][419]PIE: Server logged in
+[2025.10.08-14.14.11:627][419]PIE: Play in editor total start time 0.067 seconds.
+[2025.10.08-14.14.11:632][419]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.08-14.14.11:633][419]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.08-14.15.03:839][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-14.15.03:839][418]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.08-14.15.03:839][418]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-14.15.03:853][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-14.15.03:860][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.08-14.15.03:866][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-14.15.03:882][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.08-14.15.03:882][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.08-14.15.03:882][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.08-14.15.03:885][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2025.10.08-14.15.03:897][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.08-14.15.03:966][419]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.10.08-14.15.12:282][555]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-14.15.12:294][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-14.15.12:297][555]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-14.15.12:313][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-14.15.12:383][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.08-14.15.15:522][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RaiseWater2.RaiseWater2
+[2025.10.08-14.15.15:522][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.08-14.15.15:563][662]LogStreaming: Display: FlushAsyncLoading(571): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.08-14.15.17:758][662]LogAutomationController: Ignoring very large delta of 2.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.08-14.15.28:303][849]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Water/Materials/HLOD/HLODWater.HLODWater
+[2025.10.08-14.15.28:306][849]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.08-14.15.31:863][897]LogSlate: Window 'HLODWater' being destroyed
+[2025.10.08-14.15.36:882][986]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Water/Materials/WaterSurface/Water_FarMesh.Water_FarMesh
+[2025.10.08-14.15.36:884][986]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.08-14.15.42:422][ 71]LogAssetEditorSubsystem: Opening Asset editor for Material /Water/Materials/WaterSurface/Water_Material.Water_Material
+[2025.10.08-14.15.42:472][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.08-14.15.42:599][ 71]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(13), PS(58)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Constructor usages (Est.): 4 (VS), 7 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Promote usages (Est.): 11 (VS), 7 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Demote usages (Est.): 2 (VS), 6 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Add usages (Est.): 20 (VS), 55 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Subtract usages (Est.): 10 (VS), 38 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Divide usages (Est.): 14 (VS), 48 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2025.10.08-14.15.42:943][ 71]MaterialEditorStats: LWC Other usages (Est.): 10 (VS), 54 (PS), 0 (CS)
+[2025.10.08-14.15.42:944][ 71]MaterialEditorStats: Shader Count: 0
+[2025.10.08-14.15.42:944][ 71]MaterialEditorStats: Preshaders: 59  (63 param fetches, 113 ops)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: Base pass vertex shader: 338 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: Texture samplers: 5/16
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(13), PS(58)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Constructor usages (Est.): 4 (VS), 7 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Promote usages (Est.): 11 (VS), 7 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Demote usages (Est.): 2 (VS), 6 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Add usages (Est.): 20 (VS), 55 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Subtract usages (Est.): 10 (VS), 38 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Divide usages (Est.): 14 (VS), 48 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 0 (VS), 9 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: LWC Other usages (Est.): 10 (VS), 54 (PS), 0 (CS)
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: Shader Count: 6
+[2025.10.08-14.15.43:199][ 73]MaterialEditorStats: Preshaders: 59  (63 param fetches, 113 ops)
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: ================================================
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Total job queries 1,260, among them cache hits 750 (59.52%), DDC hits 98 (7.78%), Duplicates 17 (1.35%)
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Tracking 493 distinct input hashes that result in 343 distinct outputs (69.57%)
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: RAM used: 173.93 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Shaders Compiled: 395
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Jobs assigned 395, completed 395 (100%)
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Average time worker was idle: 90.68 s
+[2025.10.08-14.17.40:031][396]LogShaderCompilers: Display: Time job spent in pending queue: average 0.54 s, longest 2.97 s
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Job execution time: average 0.65 s, max 3.25 s
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 3.58
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Shader code size: average 12.334 KiB, min 1.187 KiB, max 66.584 KiB
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 100.97 s
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Jobs were issued in 393 batches (only local compilation was used), average 1.01 jobs/batch
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Average processing rate: 3.91 jobs/sec
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Total thread time: 178.606 s
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Total thread preprocess time: 13.948 s
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Percentage time preprocessing: 7.81%
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Effective parallelization: 1.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    7 times, average 1.66 sec, max 2.01 sec, min 1.45 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    8 times, average 0.88 sec, max 2.77 sec, min 0.55 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.71 sec, max 0.95 sec, min 0.48 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   15 times, average 0.66 sec, max 0.83 sec, min 0.59 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 0.65 sec, max 0.72 sec, min 0.62 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.76% of total time (compiled   52 times, average 0.58 sec, max 0.78 sec, min 0.41 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.08% of total time (compiled   43 times, average 0.38 sec, max 0.79 sec, min 0.28 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                               FNiagaraShader - 8.74% of total time (compiled   97 times, average 0.16 sec, max 0.64 sec, min 0.05 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                                 FLumenCardPS - 7.95% of total time (compiled   29 times, average 0.49 sec, max 0.64 sec, min 0.35 sec)
+[2025.10.08-14.17.40:032][396]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.50% of total time (compiled    7 times, average 1.66 sec, max 2.01 sec, min 1.45 sec)
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: === Material stats ===
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Materials Translated:    752
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Material Total Translate Time: 0.44 s
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Material Translation Only: 0.23 s (52%)
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: Material Cache Hits: 20 (3%)
+[2025.10.08-14.17.40:033][396]LogShaderCompilers: Display: ================================================
+[2025.10.08-14.18.17:280][774]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.08-14.18.18:999][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-14.18.19:053][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Water/Materials/WaterSurface/Water_FarMesh] ([1] browsable assets)...
+[2025.10.08-14.18.19:124][802]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Water/Materials/WaterSurface/Water_FarMesh.Water_FarMesh]
+[2025.10.08-14.18.19:124][802]OBJ SavePackage: Finished generating thumbnails for package [/Water/Materials/WaterSurface/Water_FarMesh]
+[2025.10.08-14.18.19:124][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Water/Materials/WaterSurface/Water_FarMesh" FILE="../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_FarMesh.uasset" SILENT=true
+[2025.10.08-14.18.19:228][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.08-14.18.47:506][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.10.08-14.18.47:526][802]LogSavePackage: Moving output files for package: /Water/Materials/WaterSurface/Water_FarMesh
+[2025.10.08-14.18.47:527][802]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/Water_FarMeshF926EB9749908C9B19009AA1EE180AEE.tmp' to '../../Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_FarMesh.uasset'
+[2025.10.08-14.18.47:547][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.5 sec (total: 39.8 sec)
+[2025.10.08-14.18.47:615][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-14.18.47:615][802]LogContentValidation: Enabled validators:
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-14.18.47:615][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-14.18.47:615][802]AssetCheck: /Water/Materials/WaterSurface/Water_FarMesh Validating asset
+[2025.10.08-14.18.47:675][802]LogAutomationController: Ignoring very large delta of 28.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.08-14.19.00:985][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.08-14.19.01:091][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.08-14.19.01:119][ 34]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.08-14.19.01:119][ 34]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap187EF0524818141CFC19CCB91DE29515.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.08-14.19.01:133][ 34]LogFileHelpers: All files are already saved.
+[2025.10.08-14.19.01:133][ 34]LogFileHelpers: Saving map 'ParkourMap' took 0.091
+[2025.10.08-14.19.01:140][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.313 ms (total: 39.9 sec)
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: Enabled validators:
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.08-14.19.01:207][ 34]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.08-14.19.01:208][ 34]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.08-14.19.01:208][ 34]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.08-14.19.06:692][129]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.08-14.19.06:692][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.08-14.19.06:800][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
