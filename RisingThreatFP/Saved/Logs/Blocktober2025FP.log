@@ -9457,3 +9457,1690 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.14-15.26.25:264][688]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.14-15.26.25:264][688]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.14-15.26.25:264][688]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-15.31.20:151][647]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17988.380859
+[2025.10.14-15.31.21:151][650]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-15.31.21:151][650]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17989.048828, Update Interval: 302.631317
+[2025.10.14-15.31.58:101][761]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.14-15.31.58:148][761]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.14-15.31.58:148][761]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17400
+[2025.10.14-15.31.58:162][762]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6fd81a06-3159-45a9-8c19-215edc27be7d} Name=MSI G271 (NVIDIA High Definition Audio))
+[2025.10.14-15.31.58:178][762]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.14-15.31.59:148][764]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.14-15.31.59:151][764]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=40.82
+[2025.10.14-15.31.59:151][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.14-15.31.59:154][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.14-15.33.15:676][994]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-15.37.07:521][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18336.062500
+[2025.10.14-15.37.08:522][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-15.37.08:522][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18336.730469, Update Interval: 332.009644
+[2025.10.14-15.43.40:235][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18729.179688
+[2025.10.14-15.43.41:235][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-15.43.41:235][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18729.847656, Update Interval: 316.901154
+[2025.10.14-15.49.53:611][987]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19102.943359
+[2025.10.14-15.49.54:612][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-15.49.54:612][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19103.611328, Update Interval: 332.789703
+[2025.10.14-15.56.24:657][160]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19494.458984
+[2025.10.14-15.56.25:657][163]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-15.56.25:657][163]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19495.126953, Update Interval: 349.414337
+[2025.10.14-16.03.05:698][363]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19895.910156
+[2025.10.14-16.03.06:698][366]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.03.06:699][366]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19896.578125, Update Interval: 322.806488
+[2025.10.14-16.09.07:412][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20257.984375
+[2025.10.14-16.09.08:413][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.09.08:413][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20258.652344, Update Interval: 307.939697
+[2025.10.14-16.14.52:784][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20603.742188
+[2025.10.14-16.14.53:783][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.14.53:783][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20604.408203, Update Interval: 310.419006
+[2025.10.14-16.20.46:487][545]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20957.851562
+[2025.10.14-16.20.47:489][548]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.20.47:489][548]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20958.519531, Update Interval: 313.489807
+[2025.10.14-16.26.56:216][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21327.957031
+[2025.10.14-16.26.57:200][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.26.57:200][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21328.607422, Update Interval: 356.553833
+[2025.10.14-16.33.15:678][793]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-16.33.35:579][852]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21727.371094
+[2025.10.14-16.33.36:578][855]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.33.36:578][855]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21728.035156, Update Interval: 301.054718
+[2025.10.14-16.39.21:287][889]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22073.078125
+[2025.10.14-16.39.22:287][892]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.39.22:287][892]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22073.746094, Update Interval: 356.432983
+[2025.10.14-16.45.51:316][ 59]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22463.111328
+[2025.10.14-16.45.52:320][ 62]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.45.52:320][ 62]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22463.783203, Update Interval: 350.326233
+[2025.10.14-16.52.28:372][250]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22860.183594
+[2025.10.14-16.52.29:372][253]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.52.29:372][253]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 22860.867188, Update Interval: 330.987885
+[2025.10.14-16.58.50:096][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23241.931641
+[2025.10.14-16.58.51:109][398]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-16.58.51:109][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23242.599609, Update Interval: 323.229462
+[2025.10.14-17.05.04:799][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23616.654297
+[2025.10.14-17.05.05:800][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.05.05:801][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23617.328125, Update Interval: 359.765625
+[2025.10.14-17.12.03:866][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24035.724609
+[2025.10.14-17.12.04:856][779]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.12.04:856][779]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24036.382812, Update Interval: 355.198822
+[2025.10.14-17.18.34:232][947]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24426.128906
+[2025.10.14-17.18.35:231][950]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.18.35:231][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24426.791016, Update Interval: 337.244781
+[2025.10.14-17.25.09:614][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 24821.513672
+[2025.10.14-17.25.10:615][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.25.10:615][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 24822.177734, Update Interval: 357.007965
+[2025.10.14-17.31.38:316][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25210.253906
+[2025.10.14-17.31.39:326][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.31.39:326][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25210.925781, Update Interval: 304.429443
+[2025.10.14-17.33.15:678][592]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-17.37.36:697][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25568.658203
+[2025.10.14-17.37.37:697][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.37.37:697][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25569.320312, Update Interval: 314.073914
+[2025.10.14-17.43.50:404][495]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 25942.392578
+[2025.10.14-17.43.51:415][498]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.43.51:415][498]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 25943.064453, Update Interval: 337.587219
+[2025.10.14-17.50.01:457][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26313.498047
+[2025.10.14-17.50.02:442][611]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.50.02:442][611]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26314.154297, Update Interval: 320.109253
+[2025.10.14-17.52.41:079][ 87]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.14-17.52.41:267][ 87]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.14-17.52.41:267][ 87]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17400
+[2025.10.14-17.52.41:602][ 88]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.14-17.52.41:604][ 88]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=177.00
+[2025.10.14-17.52.41:604][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.14-17.52.41:606][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.14-17.56.12:000][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 26684.039062
+[2025.10.14-17.56.12:993][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-17.56.12:993][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 26684.699219, Update Interval: 326.001770
+[2025.10.14-18.02.16:050][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27048.087891
+[2025.10.14-18.02.16:357][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.02.16:359][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27048.332031, Update Interval: 331.958374
+[2025.10.14-18.08.26:649][374]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27418.681641
+[2025.10.14-18.08.27:653][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.08.27:653][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27419.353516, Update Interval: 300.642731
+[2025.10.14-18.10.59:377][483]Cmd: DELETE
+[2025.10.14-18.10.59:377][483]Cmd: ACTOR DELETE
+[2025.10.14-18.10.59:402][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.14-18.10.59:481][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.14-18.10.59:484][483]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2025.10.14-18.12.28:287][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.12.28:442][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.14-18.12.28:848][922]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.12.28:850][922]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap93B65F004A9804C05AB787BA4A455D05.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.12.28:865][922]LogFileHelpers: All files are already saved.
+[2025.10.14-18.12.28:865][922]LogFileHelpers: Saving map 'ParkourMap' took 0.520
+[2025.10.14-18.12.28:873][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 585.661 ms (total: 2:03 min)
+[2025.10.14-18.12.28:943][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.12.28:943][922]LogContentValidation: Enabled validators:
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.12.28:943][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.12.28:944][922]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.12.50:428][275]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.14-18.14.22:777][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 27774.818359
+[2025.10.14-18.14.23:179][774]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.14.23:179][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 27775.160156, Update Interval: 322.540985
+[2025.10.14-18.14.33:153][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.14.33:337][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.14-18.14.33:744][931]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.14.33:745][931]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap7693517740F749B7D332F584DC58ECA1.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.14.33:762][931]LogFileHelpers: All files are already saved.
+[2025.10.14-18.14.33:762][931]LogFileHelpers: Saving map 'ParkourMap' took 0.530
+[2025.10.14-18.14.33:771][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 618.050 ms (total: 2:04 min)
+[2025.10.14-18.14.33:842][931]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.14.33:842][931]LogContentValidation: Enabled validators:
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.14.33:842][931]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.14.33:843][931]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.14.34:688][944]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.14.34:857][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.14.35:259][944]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.14.35:260][944]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapAF4BF1C84A4596AD49B021ACE6470E20.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.14.35:275][944]LogFileHelpers: All files are already saved.
+[2025.10.14-18.14.35:275][944]LogFileHelpers: Saving map 'ParkourMap' took 0.514
+[2025.10.14-18.14.35:285][944]LogFileHelpers: InternalPromptForCheckoutAndSave took 596.071 ms (total: 2:05 min)
+[2025.10.14-18.14.35:342][944]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.14.35:342][944]LogContentValidation: Enabled validators:
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.14.35:342][944]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.14.35:343][944]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.15.05:010][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.15.05:158][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.14-18.15.05:572][397]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.15.05:572][397]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapFE6F03CE490B96F4A16A62A164BDE2F5.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.15.05:590][397]LogFileHelpers: All files are already saved.
+[2025.10.14-18.15.05:590][397]LogFileHelpers: Saving map 'ParkourMap' took 0.530
+[2025.10.14-18.15.05:605][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 594.122 ms (total: 2:05 min)
+[2025.10.14-18.15.05:693][397]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.15.05:693][397]LogContentValidation: Enabled validators:
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.15.05:693][397]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.15.05:694][397]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.15.06:215][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.15.06:370][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.14-18.15.06:749][405]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.15.06:750][405]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap1C8CB62B4D3AF83E7468288F1ECFE2EB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.15.06:763][405]LogFileHelpers: All files are already saved.
+[2025.10.14-18.15.06:763][405]LogFileHelpers: Saving map 'ParkourMap' took 0.488
+[2025.10.14-18.15.06:778][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 563.609 ms (total: 2:06 min)
+[2025.10.14-18.15.06:850][405]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.15.06:850][405]LogContentValidation: Enabled validators:
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.15.06:850][405]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.15.06:852][405]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.15.10:834][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.15.10:997][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.15.11:372][468]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.15.11:372][468]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapF8D703B940DC217BC897F3B7C2C3F00A.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.15.11:387][468]LogFileHelpers: All files are already saved.
+[2025.10.14-18.15.11:387][468]LogFileHelpers: Saving map 'ParkourMap' took 0.482
+[2025.10.14-18.15.11:403][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 568.700 ms (total: 2:06 min)
+[2025.10.14-18.15.11:461][468]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.15.11:461][468]LogContentValidation: Enabled validators:
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.15.11:461][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.15.11:462][468]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.15.57:647][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.15.57:833][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.10.14-18.15.58:243][182]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.15.58:243][182]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap3E329E5F45E05FD854D73D99DF475FA3.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.15.58:259][182]LogFileHelpers: All files are already saved.
+[2025.10.14-18.15.58:259][182]LogFileHelpers: Saving map 'ParkourMap' took 0.526
+[2025.10.14-18.15.58:269][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 621.064 ms (total: 2:07 min)
+[2025.10.14-18.15.58:342][182]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.15.58:342][182]LogContentValidation: Enabled validators:
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.15.58:342][182]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.15.58:343][182]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.16.19:698][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.16.19:878][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.14-18.16.20:290][526]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.16.20:290][526]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap374EC5E34B2D997AC567A6836D315B82.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.16.20:305][526]LogFileHelpers: All files are already saved.
+[2025.10.14-18.16.20:305][526]LogFileHelpers: Saving map 'ParkourMap' took 0.526
+[2025.10.14-18.16.20:313][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 614.918 ms (total: 2:08 min)
+[2025.10.14-18.16.20:378][526]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.16.20:378][526]LogContentValidation: Enabled validators:
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.16.20:378][526]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.16.20:378][526]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.16.28:461][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.16.28:616][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.14-18.16.29:029][653]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.16.29:029][653]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap59C118E64ED37B68FFD743B750489A80.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.16.29:046][653]LogFileHelpers: All files are already saved.
+[2025.10.14-18.16.29:046][653]LogFileHelpers: Saving map 'ParkourMap' took 0.525
+[2025.10.14-18.16.29:061][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 600.732 ms (total: 2:08 min)
+[2025.10.14-18.16.29:109][653]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.16.29:109][653]LogContentValidation: Enabled validators:
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.16.29:109][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.16.29:110][653]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.17.25:773][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.17.25:935][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.14-18.17.26:310][519]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.17.26:312][519]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap33AC292541E041FC152CCB9E7B830D5B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.17.26:326][519]LogFileHelpers: All files are already saved.
+[2025.10.14-18.17.26:326][519]LogFileHelpers: Saving map 'ParkourMap' took 0.489
+[2025.10.14-18.17.26:342][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 568.404 ms (total: 2:09 min)
+[2025.10.14-18.17.26:417][519]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.17.26:417][519]LogContentValidation: Enabled validators:
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.17.26:417][519]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.17.26:418][519]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.17.53:070][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.17.53:235][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.14-18.17.53:607][954]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.17.53:608][954]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap180F620747691EC45D9B4FAA2E7B9CF2.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.17.53:622][954]LogFileHelpers: All files are already saved.
+[2025.10.14-18.17.53:622][954]LogFileHelpers: Saving map 'ParkourMap' took 0.485
+[2025.10.14-18.17.53:639][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 570.250 ms (total: 2:09 min)
+[2025.10.14-18.17.53:710][954]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.17.53:710][954]LogContentValidation: Enabled validators:
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.17.53:710][954]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.17.53:711][954]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.19.00:336][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.19.00:522][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.14-18.19.00:899][ 39]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.19.00:901][ 39]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap5A09D69A4A7B6CF1D500F787688BEE95.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.19.00:914][ 39]LogFileHelpers: All files are already saved.
+[2025.10.14-18.19.00:915][ 39]LogFileHelpers: Saving map 'ParkourMap' took 0.499
+[2025.10.14-18.19.00:932][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 595.493 ms (total: 2:10 min)
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: Enabled validators:
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.19.00:993][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.19.00:994][ 39]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.19.21:052][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.19.21:247][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.14-18.19.21:620][374]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.19.21:622][374]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap959640004C3C800CD5E5B9A859DE85AB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.19.21:636][374]LogFileHelpers: All files are already saved.
+[2025.10.14-18.19.21:636][374]LogFileHelpers: Saving map 'ParkourMap' took 0.486
+[2025.10.14-18.19.21:655][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 602.329 ms (total: 2:11 min)
+[2025.10.14-18.19.21:725][374]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.19.21:726][374]LogContentValidation: Enabled validators:
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.19.21:726][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.19.21:726][374]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.19.33:016][564]Cmd: DELETE
+[2025.10.14-18.19.33:016][564]Cmd: ACTOR DELETE
+[2025.10.14-18.19.33:042][564]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.14-18.19.33:118][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.14-18.19.33:120][564]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2025.10.14-18.19.49:926][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.19.50:056][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.19.50:432][845]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.19.50:432][845]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap62A714294857E2B199D772A3088800AB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.19.50:446][845]LogFileHelpers: All files are already saved.
+[2025.10.14-18.19.50:446][845]LogFileHelpers: Saving map 'ParkourMap' took 0.487
+[2025.10.14-18.19.50:455][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 529.188 ms (total: 2:11 min)
+[2025.10.14-18.19.50:525][845]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.19.50:525][845]LogContentValidation: Enabled validators:
+[2025.10.14-18.19.50:525][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.19.50:525][845]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.19.50:525][845]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.19.50:526][845]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.19.50:526][845]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.19.50:526][845]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.19.50:526][845]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.20.16:939][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28129.011719
+[2025.10.14-18.20.17:321][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.20.17:322][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28129.337891, Update Interval: 325.597107
+[2025.10.14-18.20.24:494][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.20.24:638][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.14-18.20.25:005][402]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.20.25:005][402]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapA43BDBCC4233190E22BCB3B227E4C702.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.20.25:019][402]LogFileHelpers: All files are already saved.
+[2025.10.14-18.20.25:019][402]LogFileHelpers: Saving map 'ParkourMap' took 0.477
+[2025.10.14-18.20.25:036][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 542.690 ms (total: 2:12 min)
+[2025.10.14-18.20.25:108][402]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.20.25:108][402]LogContentValidation: Enabled validators:
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.20.25:108][402]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.20.25:109][402]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.22.40:188][382]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.22.40:359][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.14-18.22.40:738][382]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.22.40:738][382]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap95BEE7004581039769268FB99AF9CE12.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.22.40:753][382]LogFileHelpers: All files are already saved.
+[2025.10.14-18.22.40:753][382]LogFileHelpers: Saving map 'ParkourMap' took 0.492
+[2025.10.14-18.22.40:770][382]LogFileHelpers: InternalPromptForCheckoutAndSave took 580.952 ms (total: 2:12 min)
+[2025.10.14-18.22.40:842][382]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.22.40:842][382]LogContentValidation: Enabled validators:
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.22.40:842][382]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.22.40:843][382]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.26.15:217][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28487.269531
+[2025.10.14-18.26.16:216][113]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.26.16:216][113]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28487.937500, Update Interval: 338.751801
+[2025.10.14-18.32.48:369][756]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28880.406250
+[2025.10.14-18.32.48:706][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.32.48:706][761]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28880.681641, Update Interval: 314.141663
+[2025.10.14-18.33.06:745][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.33.06:934][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2025.10.14-18.33.07:344][ 63]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.33.07:344][ 63]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE7DCCD3C46E963361E34D3A626BB294A.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.33.07:361][ 63]LogFileHelpers: All files are already saved.
+[2025.10.14-18.33.07:361][ 63]LogFileHelpers: Saving map 'ParkourMap' took 0.531
+[2025.10.14-18.33.07:380][ 63]LogFileHelpers: InternalPromptForCheckoutAndSave took 634.546 ms (total: 2:13 min)
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: Enabled validators:
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.33.07:443][ 63]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.33.07:444][ 63]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.33.15:681][192]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.14-18.33.56:431][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.33.56:599][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.14-18.33.56:992][846]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.33.56:993][846]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapC08F6C5446222C1453BC09B6E5D6AF06.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.33.57:009][846]LogFileHelpers: All files are already saved.
+[2025.10.14-18.33.57:009][846]LogFileHelpers: Saving map 'ParkourMap' took 0.512
+[2025.10.14-18.33.57:018][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 586.334 ms (total: 2:13 min)
+[2025.10.14-18.33.57:082][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.33.57:082][846]LogContentValidation: Enabled validators:
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.33.57:082][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.33.57:084][846]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.35.38:066][512]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.35.38:248][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.14-18.35.38:667][512]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.35.38:668][512]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap1CCF844F4F1245ABEFFBCEA468647CEB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.35.38:686][512]LogFileHelpers: All files are already saved.
+[2025.10.14-18.35.38:686][512]LogFileHelpers: Saving map 'ParkourMap' took 0.544
+[2025.10.14-18.35.38:694][512]LogFileHelpers: InternalPromptForCheckoutAndSave took 627.108 ms (total: 2:14 min)
+[2025.10.14-18.35.38:763][512]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.35.38:764][512]LogContentValidation: Enabled validators:
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.35.38:764][512]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.35.38:765][512]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.35.41:225][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.35.41:393][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.35.41:778][552]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.35.41:778][552]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapC420565A4F93DD01FDF10097B729EAAE.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.35.41:794][552]LogFileHelpers: All files are already saved.
+[2025.10.14-18.35.41:794][552]LogFileHelpers: Saving map 'ParkourMap' took 0.502
+[2025.10.14-18.35.41:801][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 576.548 ms (total: 2:15 min)
+[2025.10.14-18.35.41:864][552]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.35.41:864][552]LogContentValidation: Enabled validators:
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.35.41:864][552]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.35.41:865][552]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.37.00:975][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.37.01:138][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2025.10.14-18.37.01:528][859]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.37.01:528][859]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapBDB7768D43C06788387B81AE04865863.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.37.01:543][859]LogFileHelpers: All files are already saved.
+[2025.10.14-18.37.01:543][859]LogFileHelpers: Saving map 'ParkourMap' took 0.508
+[2025.10.14-18.37.01:561][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 586.346 ms (total: 2:15 min)
+[2025.10.14-18.37.01:656][859]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.37.01:656][859]LogContentValidation: Enabled validators:
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.37.01:656][859]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.37.01:658][859]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.37.32:341][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.37.32:536][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.37.32:919][394]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.37.32:919][394]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap74725AEE49A4648A98C18B8E1C9ACB59.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.37.32:935][394]LogFileHelpers: All files are already saved.
+[2025.10.14-18.37.32:935][394]LogFileHelpers: Saving map 'ParkourMap' took 0.499
+[2025.10.14-18.37.32:953][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 611.577 ms (total: 2:16 min)
+[2025.10.14-18.37.32:999][394]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.37.32:999][394]LogContentValidation: Enabled validators:
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.37.32:999][394]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.37.33:000][394]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.38.11:284][ 28]Cmd: TRANSACTION UNDO
+[2025.10.14-18.38.11:284][ 28]LogEditorTransaction: Undo Scale Elements
+[2025.10.14-18.38.37:228][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29229.248047
+[2025.10.14-18.38.37:850][477]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.38.37:850][478]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29229.812500, Update Interval: 301.192047
+[2025.10.14-18.38.39:911][513]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.14-18.38.43:130][568]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.10.14-18.38.43:561][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.38.43:743][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.14-18.38.44:126][576]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.38.44:126][576]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapF794EE6D486E964C379F4FA3B7D904D0.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.38.44:140][576]LogFileHelpers: All files are already saved.
+[2025.10.14-18.38.44:140][576]LogFileHelpers: Saving map 'ParkourMap' took 0.503
+[2025.10.14-18.38.44:160][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 599.481 ms (total: 2:16 min)
+[2025.10.14-18.38.44:254][576]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.38.44:255][576]LogContentValidation: Enabled validators:
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.38.44:255][576]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.38.44:256][576]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.40.24:298][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.40.24:466][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.10.14-18.40.24:886][216]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.40.24:886][216]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap7E97D828457A4253140185A0FD89636E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.40.24:902][216]LogFileHelpers: All files are already saved.
+[2025.10.14-18.40.24:902][216]LogFileHelpers: Saving map 'ParkourMap' took 0.540
+[2025.10.14-18.40.24:921][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 622.041 ms (total: 2:17 min)
+[2025.10.14-18.40.24:987][216]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.40.24:987][216]LogContentValidation: Enabled validators:
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.40.24:987][216]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.40.24:987][216]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.40.34:885][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.40.35:058][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.10.14-18.40.35:479][363]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.40.35:480][363]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapBD7A2FD243EFBDFF10B596A3FC1CFD86.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.40.35:496][363]LogFileHelpers: All files are already saved.
+[2025.10.14-18.40.35:496][363]LogFileHelpers: Saving map 'ParkourMap' took 0.541
+[2025.10.14-18.40.35:503][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 617.930 ms (total: 2:18 min)
+[2025.10.14-18.40.35:553][363]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.40.35:553][363]LogContentValidation: Enabled validators:
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.40.35:553][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.40.35:553][363]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.41.29:214][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.41.29:397][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.14-18.41.29:779][227]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.41.29:779][227]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapD1BA0E5F4FC176D2F0E79A8E4B29CFC1.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.41.29:795][227]LogFileHelpers: All files are already saved.
+[2025.10.14-18.41.29:795][227]LogFileHelpers: Saving map 'ParkourMap' took 0.506
+[2025.10.14-18.41.29:813][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 599.438 ms (total: 2:18 min)
+[2025.10.14-18.41.29:888][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.41.29:888][227]LogContentValidation: Enabled validators:
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.41.29:888][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.41.29:889][227]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.41.48:103][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.41.48:167][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.41.48:167][487]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.41.48:263][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096177s)
+[2025.10.14-18.41.48:263][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.096232s)
+[2025.10.14-18.41.48:345][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2025.10.14-18.41.48:347][487]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.41.48:349][487]LogPlayLevel: PIE: World Init took: (0.002256s)
+[2025.10.14-18.41.48:350][487]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.41.48:350][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.41.48:350][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.41.48:350][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.41.48:350][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.41.48:350][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.41.48:352][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.41.48:387][487]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.41.48:387][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.41.48:387][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.41.48:387][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.41.48:388][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.10.14-18.41.48:388][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.10.14-18.41.48:390][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.10.14-18.41.48:390][487]LogInit: FAudioDevice initialized with ID 60.
+[2025.10.14-18.41.48:390][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.10.14-18.41.48:390][487]LogAudio: Display: Audio Device (ID: 60) registered with world 'ParkourMap'.
+[2025.10.14-18.41.48:390][487]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.10.14-18.41.48:397][487]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.41.48:455][487]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.41.48
+[2025.10.14-18.41.48:457][487]LogWorld: Bringing up level for play took: 0.060033
+[2025.10.14-18.41.48:460][487]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2025.10.14-18.41.48:465][487]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.41.48:466][487]PIE: Server logged in
+[2025.10.14-18.41.48:467][487]PIE: Play in editor total start time 0.302 seconds.
+[2025.10.14-18.41.48:490][487]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.41.48:490][487]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.41.54:966][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.41.54:966][636]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.41.54:968][636]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.41.54:992][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.41.55:003][636]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.41.55:010][636]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.41.55:125][636]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.14-18.41.55:125][636]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.10.14-18.41.55:125][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.10.14-18.41.55:128][636]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.10.14-18.41.55:133][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.41.55:155][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.10.14-18.41.55:334][637]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2025.10.14-18.42.04:908][783]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.42.04:970][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.42.04:971][783]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.42.05:065][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093807s)
+[2025.10.14-18.42.05:065][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.093841s)
+[2025.10.14-18.42.05:145][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.10.14-18.42.05:147][783]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.42.05:149][783]LogPlayLevel: PIE: World Init took: (0.002158s)
+[2025.10.14-18.42.05:150][783]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.42.05:150][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.42.05:150][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.42.05:150][783]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.42.05:150][783]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.42.05:150][783]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.42.05:152][783]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.42.05:184][783]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.42.05:184][783]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.42.05:184][783]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.42.05:184][783]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.42.05:184][783]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.10.14-18.42.05:184][783]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.10.14-18.42.05:188][783]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.10.14-18.42.05:188][783]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.10.14-18.42.05:188][783]LogInit: FAudioDevice initialized with ID 61.
+[2025.10.14-18.42.05:188][783]LogAudio: Display: Audio Device (ID: 61) registered with world 'ParkourMap'.
+[2025.10.14-18.42.05:188][783]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.10.14-18.42.05:191][783]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.42.05:247][783]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.42.05
+[2025.10.14-18.42.05:248][783]LogWorld: Bringing up level for play took: 0.057823
+[2025.10.14-18.42.05:251][783]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.10.14-18.42.05:255][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.42.05:255][783]PIE: Server logged in
+[2025.10.14-18.42.05:257][783]PIE: Play in editor total start time 0.286 seconds.
+[2025.10.14-18.42.05:280][783]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.42.05:280][783]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.42.26:036][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.42.26:037][170]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.42.26:040][170]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.42.26:067][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.42.26:074][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.42.26:083][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.42.26:190][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.42.26:194][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.10.14-18.42.26:194][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.10.14-18.42.26:197][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.10.14-18.42.26:223][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.14-18.42.26:390][171]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.10.14-18.42.36:395][320]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.42.36:453][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.42.36:453][320]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.42.36:545][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091350s)
+[2025.10.14-18.42.36:545][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.091386s)
+[2025.10.14-18.42.36:623][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.14-18.42.36:625][320]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.42.36:628][320]LogPlayLevel: PIE: World Init took: (0.003265s)
+[2025.10.14-18.42.36:630][320]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.42.36:630][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.42.36:630][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.42.36:630][320]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.42.36:630][320]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.42.36:630][320]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.42.36:632][320]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.42.36:663][320]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.42.36:664][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.42.36:664][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.42.36:664][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.42.36:664][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.10.14-18.42.36:664][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.10.14-18.42.36:667][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.10.14-18.42.36:667][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.10.14-18.42.36:667][320]LogInit: FAudioDevice initialized with ID 62.
+[2025.10.14-18.42.36:667][320]LogAudio: Display: Audio Device (ID: 62) registered with world 'ParkourMap'.
+[2025.10.14-18.42.36:667][320]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.10.14-18.42.36:670][320]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.42.36:726][320]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.42.36
+[2025.10.14-18.42.36:730][320]LogWorld: Bringing up level for play took: 0.059593
+[2025.10.14-18.42.36:734][320]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.10.14-18.42.36:737][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.42.36:738][320]PIE: Server logged in
+[2025.10.14-18.42.36:739][320]PIE: Play in editor total start time 0.287 seconds.
+[2025.10.14-18.42.36:760][320]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.42.36:760][320]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.42.42:817][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.42.42:817][466]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.42.42:819][466]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.42.42:845][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.42.42:853][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.42.42:860][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.42.42:967][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.42.42:972][466]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.10.14-18.42.42:972][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.10.14-18.42.42:974][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.10.14-18.42.43:001][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2025.10.14-18.42.43:162][467]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.10.14-18.44.19:111][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29571.062500
+[2025.10.14-18.44.19:479][956]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.44.19:479][956]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29571.371094, Update Interval: 344.334839
+[2025.10.14-18.44.37:251][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.44.37:437][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.14-18.44.37:827][227]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.44.37:827][227]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapB5947101467E51C34AD6C2BC47388989.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.44.37:843][227]LogFileHelpers: All files are already saved.
+[2025.10.14-18.44.37:843][227]LogFileHelpers: Saving map 'ParkourMap' took 0.511
+[2025.10.14-18.44.37:861][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 610.155 ms (total: 2:19 min)
+[2025.10.14-18.44.37:928][227]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.44.37:928][227]LogContentValidation: Enabled validators:
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.44.37:928][227]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.44.37:929][227]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.44.44:031][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.44.44:197][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.14-18.44.44:577][323]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.44.44:577][323]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap5A18112544F8D2A044FEF08585598375.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.44.45:278][323]LogFileHelpers: All files are already saved.
+[2025.10.14-18.44.45:278][323]LogFileHelpers: Saving map 'ParkourMap' took 1.180
+[2025.10.14-18.44.45:286][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 2:20 min)
+[2025.10.14-18.44.45:360][323]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.44.45:360][323]LogContentValidation: Enabled validators:
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.44.45:360][323]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.44.45:361][323]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.46.22:887][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.46.23:071][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.10.14-18.46.23:453][941]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.46.23:453][941]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapC829ADEB4BAB8B4BE264159E62B96C8D.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.46.23:470][941]LogFileHelpers: All files are already saved.
+[2025.10.14-18.46.23:470][941]LogFileHelpers: Saving map 'ParkourMap' took 0.509
+[2025.10.14-18.46.23:492][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 604.576 ms (total: 2:21 min)
+[2025.10.14-18.46.23:560][941]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.46.23:560][941]LogContentValidation: Enabled validators:
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.46.23:560][941]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.46.23:560][941]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.46.42:193][258]Cmd: DELETE
+[2025.10.14-18.46.42:193][258]Cmd: ACTOR DELETE
+[2025.10.14-18.46.42:218][258]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.14-18.46.42:302][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.10.14-18.46.42:305][258]LogEditorActor: Deleted 1 Actors (0.111 secs)
+[2025.10.14-18.47.35:263][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.47.35:449][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.14-18.47.35:832][132]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.47.35:833][132]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapA7640D3E4450628F581CFB84D1CF54DE.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.47.35:848][132]LogFileHelpers: All files are already saved.
+[2025.10.14-18.47.35:848][132]LogFileHelpers: Saving map 'ParkourMap' took 0.502
+[2025.10.14-18.47.35:866][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 602.221 ms (total: 2:21 min)
+[2025.10.14-18.47.35:929][132]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.47.35:929][132]LogContentValidation: Enabled validators:
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.47.35:929][132]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.47.35:929][132]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.48.22:529][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.48.22:692][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.48.23:075][724]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.48.23:075][724]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapAA2FB19D403D3F0CB4B55CBD5DEDD28D.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.48.23:090][724]LogFileHelpers: All files are already saved.
+[2025.10.14-18.48.23:090][724]LogFileHelpers: Saving map 'ParkourMap' took 0.502
+[2025.10.14-18.48.23:107][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 578.790 ms (total: 2:22 min)
+[2025.10.14-18.48.23:190][724]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.48.23:190][724]LogContentValidation: Enabled validators:
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.48.23:190][724]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.48.23:191][724]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.48.25:720][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.48.25:779][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.48.25:779][763]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.48.25:871][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092467s)
+[2025.10.14-18.48.25:871][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.092506s)
+[2025.10.14-18.48.25:953][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2025.10.14-18.48.25:956][763]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.48.25:958][763]LogPlayLevel: PIE: World Init took: (0.002193s)
+[2025.10.14-18.48.25:959][763]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.48.25:959][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.48.25:959][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.48.25:959][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.48.25:959][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.48.25:959][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.48.25:961][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.48.25:994][763]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.48.25:994][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.48.25:994][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.48.25:994][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.48.25:994][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.10.14-18.48.25:995][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.10.14-18.48.25:997][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.10.14-18.48.25:997][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.10.14-18.48.25:997][763]LogInit: FAudioDevice initialized with ID 63.
+[2025.10.14-18.48.25:997][763]LogAudio: Display: Audio Device (ID: 63) registered with world 'ParkourMap'.
+[2025.10.14-18.48.25:997][763]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.10.14-18.48.26:001][763]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.48.26:058][763]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.48.26
+[2025.10.14-18.48.26:059][763]LogWorld: Bringing up level for play took: 0.058148
+[2025.10.14-18.48.26:062][763]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.10.14-18.48.26:066][763]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.48.26:066][763]PIE: Server logged in
+[2025.10.14-18.48.26:068][763]PIE: Play in editor total start time 0.289 seconds.
+[2025.10.14-18.48.26:090][763]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.48.26:090][763]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.48.27:457][818]Cmd: LevelEditor.ToggleImmersive
+[2025.10.14-18.48.51:474][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.48.51:475][247]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.48.51:477][247]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.48.51:510][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.48.51:523][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.48.51:530][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.48.51:639][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.48.51:643][247]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.10.14-18.48.51:643][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.10.14-18.48.51:646][247]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.10.14-18.48.51:674][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.14-18.48.51:761][248]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.10.14-18.49.03:510][429]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.49.03:566][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.49.03:566][429]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.49.03:660][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093848s)
+[2025.10.14-18.49.03:660][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.093884s)
+[2025.10.14-18.49.03:742][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.14-18.49.03:745][429]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.49.03:747][429]LogPlayLevel: PIE: World Init took: (0.002078s)
+[2025.10.14-18.49.03:748][429]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.49.03:748][429]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.49.03:748][429]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.49.03:748][429]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.49.03:748][429]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.49.03:748][429]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.49.03:750][429]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.49.03:782][429]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.49.03:783][429]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.49.03:783][429]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.49.03:783][429]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.49.03:783][429]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.10.14-18.49.03:783][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.10.14-18.49.03:787][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.10.14-18.49.03:787][429]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.10.14-18.49.03:787][429]LogInit: FAudioDevice initialized with ID 64.
+[2025.10.14-18.49.03:787][429]LogAudio: Display: Audio Device (ID: 64) registered with world 'ParkourMap'.
+[2025.10.14-18.49.03:787][429]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.10.14-18.49.03:790][429]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.49.03:845][429]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.49.03
+[2025.10.14-18.49.03:847][429]LogWorld: Bringing up level for play took: 0.056669
+[2025.10.14-18.49.03:850][429]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.10.14-18.49.03:855][429]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.49.03:856][429]PIE: Server logged in
+[2025.10.14-18.49.03:857][429]PIE: Play in editor total start time 0.291 seconds.
+[2025.10.14-18.49.03:878][429]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.49.03:878][429]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.49.16:487][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.49.16:487][678]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.49.16:491][678]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.49.16:525][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.49.16:532][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.49.16:540][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.49.16:649][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.49.16:655][678]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.10.14-18.49.16:655][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.10.14-18.49.16:657][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.10.14-18.49.16:684][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.14-18.49.16:757][679]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.10.14-18.49.27:217][827]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.49.27:273][827]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.49.27:273][827]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.49.27:367][827]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092900s)
+[2025.10.14-18.49.27:367][827]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.092935s)
+[2025.10.14-18.49.27:450][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.14-18.49.27:453][827]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.49.27:455][827]LogPlayLevel: PIE: World Init took: (0.002067s)
+[2025.10.14-18.49.27:456][827]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.49.27:456][827]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.49.27:456][827]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.49.27:456][827]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.49.27:456][827]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.49.27:456][827]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.49.27:458][827]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.49.27:491][827]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.49.27:491][827]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.49.27:491][827]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.49.27:491][827]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.49.27:491][827]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.10.14-18.49.27:491][827]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.10.14-18.49.27:495][827]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.10.14-18.49.27:495][827]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.10.14-18.49.27:495][827]LogInit: FAudioDevice initialized with ID 65.
+[2025.10.14-18.49.27:495][827]LogAudio: Display: Audio Device (ID: 65) registered with world 'ParkourMap'.
+[2025.10.14-18.49.27:495][827]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.14-18.49.27:498][827]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.49.27:554][827]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.49.27
+[2025.10.14-18.49.27:555][827]LogWorld: Bringing up level for play took: 0.057851
+[2025.10.14-18.49.27:557][827]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.10.14-18.49.27:561][827]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.49.27:562][827]PIE: Server logged in
+[2025.10.14-18.49.27:563][827]PIE: Play in editor total start time 0.29 seconds.
+[2025.10.14-18.49.27:585][827]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.49.27:585][827]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.49.43:375][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.49.43:375][122]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.49.43:377][122]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.49.43:403][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.49.43:410][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.49.43:417][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.49.43:527][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.49.43:531][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.10.14-18.49.43:531][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.10.14-18.49.43:532][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.10.14-18.49.43:562][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.14-18.49.43:666][123]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.10.14-18.49.50:479][227]Cmd: TRANSACTION UNDO
+[2025.10.14-18.49.50:479][227]LogEditorTransaction: Undo Move Elements
+[2025.10.14-18.49.56:553][316]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.49.56:609][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.49.56:609][316]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.49.56:704][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094643s)
+[2025.10.14-18.49.56:704][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.094684s)
+[2025.10.14-18.49.56:787][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2025.10.14-18.49.56:791][316]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.49.56:793][316]LogPlayLevel: PIE: World Init took: (0.002059s)
+[2025.10.14-18.49.56:793][316]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.49.56:793][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.49.56:793][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.49.56:793][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.49.56:793][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.49.56:793][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.49.56:795][316]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.49.56:828][316]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.49.56:828][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.49.56:828][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.49.56:828][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.49.56:829][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2025.10.14-18.49.56:829][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2025.10.14-18.49.56:831][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2025.10.14-18.49.56:831][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2025.10.14-18.49.56:831][316]LogInit: FAudioDevice initialized with ID 66.
+[2025.10.14-18.49.56:831][316]LogAudio: Display: Audio Device (ID: 66) registered with world 'ParkourMap'.
+[2025.10.14-18.49.56:831][316]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2025.10.14-18.49.56:834][316]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.49.56:889][316]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.49.56
+[2025.10.14-18.49.56:891][316]LogWorld: Bringing up level for play took: 0.057210
+[2025.10.14-18.49.56:894][316]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.10.14-18.49.56:897][316]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.49.56:898][316]PIE: Server logged in
+[2025.10.14-18.49.56:899][316]PIE: Play in editor total start time 0.29 seconds.
+[2025.10.14-18.49.56:921][316]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.49.56:921][316]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.50.11:166][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.50.11:166][594]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.50.11:171][594]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.50.11:201][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.50.11:209][594]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.50.11:216][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.50.11:330][594]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.14-18.50.11:330][594]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2025.10.14-18.50.11:332][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.10.14-18.50.11:333][594]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.10.14-18.50.11:339][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.50.11:362][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.14-18.50.11:433][595]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.10.14-18.50.21:432][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.50.21:489][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.50.21:489][746]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.50.21:582][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092171s)
+[2025.10.14-18.50.21:582][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.092206s)
+[2025.10.14-18.50.21:666][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.14-18.50.21:668][746]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.50.21:671][746]LogPlayLevel: PIE: World Init took: (0.002927s)
+[2025.10.14-18.50.21:672][746]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.50.21:672][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.50.21:672][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.50.21:672][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.50.21:672][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.50.21:672][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.50.21:674][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.50.21:707][746]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.50.21:707][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.50.21:707][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.50.21:707][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.50.21:708][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2025.10.14-18.50.21:708][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2025.10.14-18.50.21:710][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2025.10.14-18.50.21:710][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2025.10.14-18.50.21:710][746]LogInit: FAudioDevice initialized with ID 67.
+[2025.10.14-18.50.21:710][746]LogAudio: Display: Audio Device (ID: 67) registered with world 'ParkourMap'.
+[2025.10.14-18.50.21:710][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2025.10.14-18.50.21:713][746]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.50.21:767][746]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.50.21
+[2025.10.14-18.50.21:770][746]LogWorld: Bringing up level for play took: 0.056735
+[2025.10.14-18.50.21:773][746]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.10.14-18.50.21:777][746]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.50.21:778][746]PIE: Server logged in
+[2025.10.14-18.50.21:779][746]PIE: Play in editor total start time 0.289 seconds.
+[2025.10.14-18.50.21:799][746]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.50.21:799][746]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.50.29:738][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.50.29:738][917]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.50.29:742][917]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.50.29:776][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.50.29:782][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.50.29:791][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.50.29:908][917]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.14-18.50.29:908][917]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2025.10.14-18.50.29:908][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.10.14-18.50.29:910][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.10.14-18.50.29:914][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.50.29:935][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.14-18.50.30:009][918]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.10.14-18.50.47:700][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 29959.720703
+[2025.10.14-18.50.48:081][206]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.50.48:082][207]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 29960.000000, Update Interval: 346.854462
+[2025.10.14-18.50.54:925][310]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.50.54:979][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.50.54:979][310]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.50.55:071][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090729s)
+[2025.10.14-18.50.55:071][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.090768s)
+[2025.10.14-18.50.55:151][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.14-18.50.55:153][310]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.50.55:156][310]LogPlayLevel: PIE: World Init took: (0.002093s)
+[2025.10.14-18.50.55:157][310]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.50.55:157][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.50.55:157][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.50.55:158][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.50.55:158][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.50.55:158][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.50.55:159][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.50.55:190][310]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.50.55:192][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.50.55:192][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.50.55:192][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.50.55:192][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2025.10.14-18.50.55:192][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2025.10.14-18.50.55:194][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2025.10.14-18.50.55:194][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2025.10.14-18.50.55:194][310]LogInit: FAudioDevice initialized with ID 68.
+[2025.10.14-18.50.55:194][310]LogAudio: Display: Audio Device (ID: 68) registered with world 'ParkourMap'.
+[2025.10.14-18.50.55:194][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2025.10.14-18.50.55:197][310]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.50.55:252][310]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.50.55
+[2025.10.14-18.50.55:254][310]LogWorld: Bringing up level for play took: 0.056519
+[2025.10.14-18.50.55:257][310]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2025.10.14-18.50.55:260][310]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.50.55:261][310]PIE: Server logged in
+[2025.10.14-18.50.55:262][310]PIE: Play in editor total start time 0.282 seconds.
+[2025.10.14-18.50.55:281][310]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.50.55:281][310]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.51.08:717][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.51.08:717][584]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.51.08:722][584]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.51.08:757][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.51.08:765][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.51.08:773][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.51.08:884][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.14-18.51.08:884][584]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2025.10.14-18.51.08:884][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.10.14-18.51.08:886][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.10.14-18.51.08:892][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.51.08:912][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.10.14-18.51.09:014][585]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2025.10.14-18.51.20:991][782]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.51.21:045][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.51.21:045][782]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.51.21:132][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088183s)
+[2025.10.14-18.51.21:132][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.088217s)
+[2025.10.14-18.51.21:213][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.14-18.51.21:216][782]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.51.21:218][782]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2025.10.14-18.51.21:219][782]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.51.21:219][782]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.51.21:219][782]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.51.21:219][782]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.51.21:219][782]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.51.21:219][782]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.51.21:221][782]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.51.21:252][782]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.51.21:252][782]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.51.21:252][782]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.51.21:252][782]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.51.21:252][782]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.10.14-18.51.21:252][782]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.10.14-18.51.21:255][782]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.10.14-18.51.21:255][782]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.10.14-18.51.21:255][782]LogInit: FAudioDevice initialized with ID 69.
+[2025.10.14-18.51.21:255][782]LogAudio: Display: Audio Device (ID: 69) registered with world 'ParkourMap'.
+[2025.10.14-18.51.21:255][782]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.10.14-18.51.21:258][782]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.51.21:312][782]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.51.21
+[2025.10.14-18.51.21:313][782]LogWorld: Bringing up level for play took: 0.055004
+[2025.10.14-18.51.21:316][782]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2025.10.14-18.51.21:319][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.51.21:320][782]PIE: Server logged in
+[2025.10.14-18.51.21:321][782]PIE: Play in editor total start time 0.277 seconds.
+[2025.10.14-18.51.21:341][782]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.51.21:341][782]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.51.47:058][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.51.47:058][269]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.51.47:061][269]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.51.47:099][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.51.47:108][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.51.47:116][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.51.47:221][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.51.47:226][269]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.10.14-18.51.47:226][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.10.14-18.51.47:228][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.10.14-18.51.47:254][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.10.14-18.51.47:324][270]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2025.10.14-18.51.56:414][393]Cmd: DELETE
+[2025.10.14-18.51.56:414][393]Cmd: ACTOR DELETE
+[2025.10.14-18.51.56:440][393]LogEditorActor: Deleted Actor: BP_LadderWall_C
+[2025.10.14-18.51.56:526][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.14-18.51.56:528][393]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2025.10.14-18.52.51:022][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.52.51:203][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.14-18.52.51:593][208]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.52.51:593][208]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE0159E6D4F15097038D1BA85D016188B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.52.51:609][208]LogFileHelpers: All files are already saved.
+[2025.10.14-18.52.51:609][208]LogFileHelpers: Saving map 'ParkourMap' took 0.511
+[2025.10.14-18.52.51:618][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 596.706 ms (total: 2:23 min)
+[2025.10.14-18.52.51:684][208]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.52.51:684][208]LogContentValidation: Enabled validators:
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.52.51:684][208]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.52.51:686][208]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.52.56:512][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.52.56:678][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.52.57:065][282]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.52.57:065][282]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapAAB1997E472282EF80FCA3B6D5B53ED7.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.52.57:080][282]LogFileHelpers: All files are already saved.
+[2025.10.14-18.52.57:080][282]LogFileHelpers: Saving map 'ParkourMap' took 0.506
+[2025.10.14-18.52.57:092][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 580.111 ms (total: 2:23 min)
+[2025.10.14-18.52.57:169][282]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.52.57:169][282]LogContentValidation: Enabled validators:
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.52.57:169][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.52.57:170][282]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.53.01:300][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.53.01:479][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.53.01:866][346]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.53.01:866][346]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCE13E4A5424A331B1BDC9AB57C9B5594.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.53.01:882][346]LogFileHelpers: All files are already saved.
+[2025.10.14-18.53.01:882][346]LogFileHelpers: Saving map 'ParkourMap' took 0.512
+[2025.10.14-18.53.01:892][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 591.567 ms (total: 2:24 min)
+[2025.10.14-18.53.01:951][346]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.53.01:951][346]LogContentValidation: Enabled validators:
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.53.01:952][346]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.53.01:952][346]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.53.04:498][383]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.53.04:554][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.53.04:555][383]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.53.04:647][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092652s)
+[2025.10.14-18.53.04:647][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.092689s)
+[2025.10.14-18.53.04:731][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.14-18.53.04:732][383]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.53.04:734][383]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2025.10.14-18.53.04:735][383]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.53.04:735][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.53.04:735][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.53.04:735][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.53.04:735][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.53.04:735][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.53.04:737][383]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.53.04:770][383]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.53.04:770][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.53.04:770][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.53.04:770][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.53.04:770][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.10.14-18.53.04:770][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.10.14-18.53.04:774][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.10.14-18.53.04:774][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.10.14-18.53.04:774][383]LogInit: FAudioDevice initialized with ID 70.
+[2025.10.14-18.53.04:774][383]LogAudio: Display: Audio Device (ID: 70) registered with world 'ParkourMap'.
+[2025.10.14-18.53.04:774][383]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.10.14-18.53.04:778][383]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.53.04:834][383]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.53.04
+[2025.10.14-18.53.04:835][383]LogWorld: Bringing up level for play took: 0.057299
+[2025.10.14-18.53.04:839][383]LogOnline: OSS: Created online subsystem instance for: :Context_84
+[2025.10.14-18.53.04:843][383]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.53.04:844][383]PIE: Server logged in
+[2025.10.14-18.53.04:844][383]PIE: Play in editor total start time 0.291 seconds.
+[2025.10.14-18.53.04:867][383]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.53.04:867][383]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.53.44:750][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.53.44:750][ 77]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.53.44:754][ 77]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.53.44:786][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.53.44:797][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.53.44:805][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.53.44:914][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.53.44:918][ 77]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.10.14-18.53.44:918][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.10.14-18.53.44:922][ 77]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.10.14-18.53.44:949][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.14-18.53.45:053][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2025.10.14-18.54.28:480][734]Cmd: DELETE
+[2025.10.14-18.54.28:480][734]Cmd: ACTOR DELETE
+[2025.10.14-18.54.28:503][734]LogEditorActor: Deleted Actor: BP_LadderWall_C
+[2025.10.14-18.54.28:592][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2025.10.14-18.54.28:595][734]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2025.10.14-18.54.30:154][759]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.54.30:212][759]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.54.30:212][759]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.54.30:309][759]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097338s)
+[2025.10.14-18.54.30:309][759]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.097376s)
+[2025.10.14-18.54.30:394][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.14-18.54.30:396][759]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.54.30:397][759]LogPlayLevel: PIE: World Init took: (0.002113s)
+[2025.10.14-18.54.30:398][759]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.54.30:398][759]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.54.30:398][759]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.54.30:398][759]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.54.30:398][759]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.54.30:398][759]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.54.30:401][759]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.54.30:433][759]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.54.30:434][759]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.54.30:434][759]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.54.30:434][759]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.54.30:434][759]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.10.14-18.54.30:434][759]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.10.14-18.54.30:437][759]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.10.14-18.54.30:437][759]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.10.14-18.54.30:437][759]LogInit: FAudioDevice initialized with ID 71.
+[2025.10.14-18.54.30:437][759]LogAudio: Display: Audio Device (ID: 71) registered with world 'ParkourMap'.
+[2025.10.14-18.54.30:437][759]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.10.14-18.54.30:441][759]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.54.30:497][759]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.54.30
+[2025.10.14-18.54.30:498][759]LogWorld: Bringing up level for play took: 0.056848
+[2025.10.14-18.54.30:500][759]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2025.10.14-18.54.30:504][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.54.30:504][759]PIE: Server logged in
+[2025.10.14-18.54.30:505][759]PIE: Play in editor total start time 0.294 seconds.
+[2025.10.14-18.54.30:527][759]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.54.30:527][759]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.55.06:299][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.55.06:299][383]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.55.06:300][383]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.55.06:322][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.55.06:330][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.55.06:340][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.55.06:452][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.55.06:458][383]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.10.14-18.55.06:459][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.10.14-18.55.06:461][383]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.10.14-18.55.06:486][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.10.14-18.55.06:541][384]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2025.10.14-18.55.35:172][817]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.55.35:232][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.55.35:232][817]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.55.35:326][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094957s)
+[2025.10.14-18.55.35:326][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.094993s)
+[2025.10.14-18.55.35:410][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2025.10.14-18.55.35:414][817]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.55.35:416][817]LogPlayLevel: PIE: World Init took: (0.002060s)
+[2025.10.14-18.55.35:417][817]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.55.35:417][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.55.35:417][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.55.35:417][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.55.35:417][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.55.35:417][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.55.35:418][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.55.35:459][817]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.55.35:459][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.55.35:459][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.55.35:459][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.55.35:460][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=72
+[2025.10.14-18.55.35:460][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=72
+[2025.10.14-18.55.35:463][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=72
+[2025.10.14-18.55.35:463][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=72
+[2025.10.14-18.55.35:463][817]LogInit: FAudioDevice initialized with ID 72.
+[2025.10.14-18.55.35:463][817]LogAudio: Display: Audio Device (ID: 72) registered with world 'ParkourMap'.
+[2025.10.14-18.55.35:463][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 72
+[2025.10.14-18.55.35:466][817]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.55.35:528][817]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.55.35
+[2025.10.14-18.55.35:530][817]LogWorld: Bringing up level for play took: 0.062837
+[2025.10.14-18.55.35:532][817]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2025.10.14-18.55.35:535][817]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.55.35:537][817]PIE: Server logged in
+[2025.10.14-18.55.35:538][817]PIE: Play in editor total start time 0.307 seconds.
+[2025.10.14-18.55.35:562][817]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.55.35:562][817]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.55.52:132][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.55.52:132][135]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.55.52:135][135]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.55.52:168][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.55.52:178][135]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.55.52:186][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.55.52:297][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.55.52:301][135]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 72
+[2025.10.14-18.55.52:301][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.10.14-18.55.52:303][135]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=72
+[2025.10.14-18.55.52:331][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.10.14-18.55.52:434][136]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2025.10.14-18.56.57:844][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.56.58:037][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.14-18.56.58:421][161]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.56.58:421][161]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap402982FD400E2AB0757E6FAECFF41950.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.56.58:437][161]LogFileHelpers: All files are already saved.
+[2025.10.14-18.56.58:437][161]LogFileHelpers: Saving map 'ParkourMap' took 0.513
+[2025.10.14-18.56.58:453][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 608.553 ms (total: 2:24 min)
+[2025.10.14-18.56.58:523][161]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.56.58:523][161]LogContentValidation: Enabled validators:
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.56.58:523][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.56.58:524][161]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.56.59:331][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.56.59:513][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.56.59:896][173]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.56.59:897][173]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap5D7381B645EBD30F7C2FACAB61AE9596.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.56.59:912][173]LogFileHelpers: All files are already saved.
+[2025.10.14-18.56.59:912][173]LogFileHelpers: Saving map 'ParkourMap' took 0.506
+[2025.10.14-18.56.59:928][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 596.925 ms (total: 2:25 min)
+[2025.10.14-18.56.59:988][173]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.56.59:988][173]LogContentValidation: Enabled validators:
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.56.59:988][173]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.56.59:989][173]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.02:619][215]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.02:796][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.57.03:181][215]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.03:181][215]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap34F7589A4ECB2B469757E2825275071E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.03:198][215]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.03:198][215]LogFileHelpers: Saving map 'ParkourMap' took 0.509
+[2025.10.14-18.57.03:217][215]LogFileHelpers: InternalPromptForCheckoutAndSave took 598.156 ms (total: 2:26 min)
+[2025.10.14-18.57.03:289][215]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.03:289][215]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.03:289][215]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.03:290][215]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.10:014][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.10:195][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.14-18.57.10:570][322]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.10:572][322]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE3AE022D4B94C2207E209599B6F02C25.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.10:965][322]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.10:965][322]LogFileHelpers: Saving map 'ParkourMap' took 0.873
+[2025.10.14-18.57.10:982][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 967.290 ms (total: 2:26 min)
+[2025.10.14-18.57.11:053][322]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.11:053][322]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.11:054][322]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.11:056][322]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.14:248][351]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.14-18.57.14:307][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.14-18.57.14:307][351]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.57.14:402][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094532s)
+[2025.10.14-18.57.14:402][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.094569s)
+[2025.10.14-18.57.14:485][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.14-18.57.14:486][351]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.14-18.57.14:489][351]LogPlayLevel: PIE: World Init took: (0.002305s)
+[2025.10.14-18.57.14:489][351]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2025.10.14-18.57.14:489][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.14-18.57.14:489][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.14-18.57.14:489][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.14-18.57.14:489][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.14-18.57.14:491][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.14-18.57.14:491][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.14-18.57.14:491][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.14-18.57.14:491][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.14-18.57.14:491][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.14-18.57.14:491][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.14-18.57.14:491][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.14-18.57.14:493][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.14-18.57.14:524][351]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.14-18.57.14:524][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.14-18.57.14:524][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.14-18.57.14:524][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.14-18.57.14:525][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=73
+[2025.10.14-18.57.14:525][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=73
+[2025.10.14-18.57.14:529][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=73
+[2025.10.14-18.57.14:529][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=73
+[2025.10.14-18.57.14:529][351]LogInit: FAudioDevice initialized with ID 73.
+[2025.10.14-18.57.14:529][351]LogAudio: Display: Audio Device (ID: 73) registered with world 'ParkourMap'.
+[2025.10.14-18.57.14:529][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 73
+[2025.10.14-18.57.14:532][351]LogLoad: Game class is 'GameModeBase'
+[2025.10.14-18.57.14:589][351]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 60) at 2025.10.14-19.57.14
+[2025.10.14-18.57.14:591][351]LogWorld: Bringing up level for play took: 0.057819
+[2025.10.14-18.57.14:594][351]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.10.14-18.57.14:598][351]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.14-18.57.14:598][351]PIE: Server logged in
+[2025.10.14-18.57.14:600][351]PIE: Play in editor total start time 0.293 seconds.
+[2025.10.14-18.57.14:621][351]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.57.14:621][351]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.14-18.57.28:217][615]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 30360.208984
+[2025.10.14-18.57.28:542][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.57.28:543][620]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.14-18.57.28:545][620]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.28:576][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.28:584][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.14-18.57.28:591][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.28:705][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.14-18.57.28:711][620]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 73
+[2025.10.14-18.57.28:711][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.10.14-18.57.28:714][620]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=73
+[2025.10.14-18.57.28:740][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.10.14-18.57.28:794][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.14-18.57.28:794][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 30360.449219, Update Interval: 307.815186
+[2025.10.14-18.57.28:847][621]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.10.14-18.57.36:707][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.36:884][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.14-18.57.37:309][743]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.37:309][743]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap5F37A3224F96B836EBFDC7B71678C50B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.37:325][743]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.37:325][743]LogFileHelpers: Saving map 'ParkourMap' took 0.548
+[2025.10.14-18.57.37:342][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 634.929 ms (total: 2:27 min)
+[2025.10.14-18.57.37:405][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.37:405][743]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.37:405][743]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.37:406][743]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.39:807][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.39:993][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.14-18.57.40:373][779]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.40:373][779]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCAC95E8A4E0439764AAC1E94B11CE138.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.40:388][779]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.40:388][779]LogFileHelpers: Saving map 'ParkourMap' took 0.501
+[2025.10.14-18.57.40:406][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 599.298 ms (total: 2:28 min)
+[2025.10.14-18.57.40:471][779]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.40:471][779]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.40:472][779]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.40:472][779]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.42:416][808]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.42:575][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.14-18.57.42:958][808]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.42:958][808]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap546CFD9A4A358D45D2FC5BA0CF6D7053.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.42:974][808]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.42:974][808]LogFileHelpers: Saving map 'ParkourMap' took 0.502
+[2025.10.14-18.57.42:990][808]LogFileHelpers: InternalPromptForCheckoutAndSave took 572.695 ms (total: 2:28 min)
+[2025.10.14-18.57.43:054][808]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.43:054][808]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.43:054][808]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.43:055][808]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.47:420][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.47:585][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.57.47:966][877]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.47:966][877]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapF00DFABB478964399E2C11B67E7F9904.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.47:981][877]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.47:981][877]LogFileHelpers: Saving map 'ParkourMap' took 0.503
+[2025.10.14-18.57.48:000][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 579.780 ms (total: 2:29 min)
+[2025.10.14-18.57.48:079][877]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.48:079][877]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.48:079][877]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.48:080][877]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.54:071][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.14-18.57.54:238][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.14-18.57.54:620][971]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.14-18.57.54:620][971]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapD934DD4A4753AEA46CD58F83AE37D0FA.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.14-18.57.54:636][971]LogFileHelpers: All files are already saved.
+[2025.10.14-18.57.54:636][971]LogFileHelpers: Saving map 'ParkourMap' took 0.504
+[2025.10.14-18.57.54:653][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 581.968 ms (total: 2:29 min)
+[2025.10.14-18.57.54:732][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.14-18.57.54:732][971]LogContentValidation: Enabled validators:
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.14-18.57.54:732][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.14-18.57.54:733][971]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.14-18.57.55:634][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.14-18.57.55:672][984]LogStall: Shutdown...
+[2025.10.14-18.57.55:673][984]LogStall: Shutdown complete.
+[2025.10.14-18.57.55:730][984]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.10.14-18.57.55:730][984]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.55:730][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.55:814][984]LogSlate: Window 'Blocktober2025FP - Unreal Editor' being destroyed
+[2025.10.14-18.57.56:196][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.10.14-18.57.56:211][984]Cmd: QUIT_EDITOR
+[2025.10.14-18.57.56:211][985]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.14-18.57.56:215][985]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.14-18.57.56:217][985]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.14-18.57.56:217][985]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.14-18.57.56:246][985]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:247][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:255][985]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.14-18.57.56:255][985]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.14-18.57.56:260][985]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:260][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:266][985]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:266][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:270][985]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:270][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:274][985]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:274][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:278][985]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:278][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:281][985]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:281][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:284][985]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:284][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:287][985]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:287][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:290][985]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:290][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:295][985]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.10.14-18.57.56:295][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.14-18.57.56:298][985]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.14-18.57.56:310][985]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.10.14-18.57.56:310][985]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.10.14-18.57.56:310][985]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.10.14-18.57.56:498][985]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.14-18.57.56:498][985]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.14-18.57.56:498][985]LogAudio: Display: Audio Device unregistered from world 'ParkourMap'.
+[2025.10.14-18.57.56:498][985]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.14-18.57.56:498][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.14-18.57.56:501][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.10.14-18.57.56:510][985]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.14-18.57.56:510][985]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.14-18.57.56:511][985]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.14-18.57.56:513][985]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.14-18.57.56:514][985]LogExit: Preparing to exit.
+[2025.10.14-18.57.56:615][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.14-18.57.56:619][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:619][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:621][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:622][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:622][985]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.56:622][985]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.10.14-18.57.57:546][985]LogEditorDataStorage: Deinitializing
+[2025.10.14-18.57.57:706][985]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.14-18.57.57:963][985]LogExit: Editor shut down
+[2025.10.14-18.57.57:970][985]LogExit: Transaction tracking system shut down
+[2025.10.14-18.57.58:322][985]LogExit: Object subsystem successfully closed.
+[2025.10.14-18.57.58:342][985]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.14-18.57.58:958][985]LogMemoryProfiler: Shutdown
+[2025.10.14-18.57.58:958][985]LogNetworkingProfiler: Shutdown
+[2025.10.14-18.57.58:958][985]LoadingProfiler: Shutdown
+[2025.10.14-18.57.58:958][985]LogTimingProfiler: Shutdown
+[2025.10.14-18.57.59:355][985]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.14-18.57.59:395][985]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.14-18.57.59:395][985]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1DD70877-4DBD-707C-12C0-61BCAA95F98D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=a5f883254214ba2c83ffcf914aaaf31b%7C964fd596bfc244c3806905d468fd0272%7C069abf9b-cb5d-44fa-b484-a66d892d315d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.14-18.57.59:970][985]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.14-18.57.59:970][985]RenderDocPlugin: plugin has been unloaded.
+[2025.10.14-18.57.59:977][985]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.10.14-18.57.59:977][985]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.14-18.57.59:978][985]LogXGEController: Cleaning working directory: C:/Users/dylan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.14-18.57.59:982][985]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.14-18.57.59:982][985]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.14-18.57.59:982][985]LogPakFile: Destroying PakPlatformFile
+[2025.10.14-18.58.00:307][985]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.14-18.58.00:346][985]LogExit: Exiting.
+[2025.10.14-18.58.00:372][985]Log file closed, 10/14/25 19:58:00
