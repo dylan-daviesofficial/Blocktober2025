@@ -3067,3 +3067,783 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.22-14.44.41:397][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.22-14.44.41:397][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.22-14.44.41:398][242]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.22-14.45.53:923][484]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7453.873535
+[2025.10.22-14.45.54:916][487]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-14.45.54:916][487]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7454.539062, Update Interval: 306.370422
+[2025.10.22-14.51.36:629][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7796.573730
+[2025.10.22-14.51.37:636][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-14.51.37:636][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7797.250000, Update Interval: 333.928650
+[2025.10.22-14.57.47:330][624]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8167.278809
+[2025.10.22-14.57.48:336][627]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-14.57.48:336][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8167.950195, Update Interval: 321.339752
+[2025.10.22-15.03.42:706][690]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8522.650391
+[2025.10.22-15.03.43:716][693]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.03.43:716][693]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8523.332031, Update Interval: 311.486572
+[2025.10.22-15.09.25:743][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8865.679688
+[2025.10.22-15.09.26:739][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.09.26:739][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8866.342773, Update Interval: 334.692230
+[2025.10.22-15.15.42:792][850]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9242.716797
+[2025.10.22-15.15.43:785][853]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.15.43:785][853]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9243.377930, Update Interval: 358.200012
+[2025.10.22-15.22.28:177][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9648.099609
+[2025.10.22-15.22.29:183][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.22.29:183][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9648.757812, Update Interval: 351.412079
+[2025.10.22-15.29.04:884][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10044.804688
+[2025.10.22-15.29.05:880][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.29.05:880][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10045.467773, Update Interval: 331.500610
+[2025.10.22-15.35.25:275][397]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10425.180664
+[2025.10.22-15.35.26:275][400]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.35.26:275][400]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10425.847656, Update Interval: 341.427032
+[2025.10.22-15.40.15:071][407]LogStreaming: Display: FlushAsyncLoading(359): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-15.40.15:121][407]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\dylan\Downloads\warningwithsiren.wav)
+[2025.10.22-15.40.15:146][407]Imported audio has DC offsets larger than 100 at the end of 2 channels and the start of 2 channels - may pop and not loop well: 'warningwithsiren'
+[2025.10.22-15.40.15:181][407]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave warningwithsiren...
+[2025.10.22-15.40.15:315][407]LogAudioDerivedData: Display: warningwithsiren compressed to 15.83% (from 3,843KB to 608KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.22-15.40.15:316][407]LogAudio: Display: Chunk stats for (SoundWave /Game/First-PersonParkourStarterKit/Audio/warningwithsiren.warningwithsiren: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261007 bytes, ChunkN=261951)
+[2025.10.22-15.40.15:320][407]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave warningwithsiren...
+[2025.10.22-15.40.15:412][407]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\dylan\Downloads\musicgame.wav)
+[2025.10.22-15.40.15:436][407]LogAudioDerivedData: Display: warningwithsiren compressed to 15.83% (from 3,843KB to 608KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.22-15.40.15:436][407]LogAudio: Display: Chunk stats for (SoundWave /Game/First-PersonParkourStarterKit/Audio/warningwithsiren.warningwithsiren: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=4, Chunk0=28 bytes, Chunk1=261007 bytes, ChunkN=261951)
+[2025.10.22-15.40.15:654][407]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave musicgame...
+[2025.10.22-15.40.16:401][407]LogAudioDerivedData: Display: musicgame compressed to 21.06% (from 24,588KB to 5,177KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.22-15.40.16:410][407]LogAudio: Display: Chunk stats for (SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=261815 bytes, ChunkN=261269)
+[2025.10.22-15.40.16:423][407]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave musicgame...
+[2025.10.22-15.40.17:202][417]LogAudioDerivedData: Display: musicgame compressed to 21.06% (from 24,588KB to 5,177KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2025.10.22-15.40.17:212][417]LogAudio: Display: Chunk stats for (SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame: Duration=0.00 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=22, Chunk0=28 bytes, Chunk1=261815 bytes, ChunkN=261269)
+[2025.10.22-15.40.18:606][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.40.18:671][439]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/musicgame] ([1] browsable assets)...
+[2025.10.22-15.40.18:709][439]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame]
+[2025.10.22-15.40.18:709][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/musicgame]
+[2025.10.22-15.40.18:709][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/First-PersonParkourStarterKit/Audio/musicgame" FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset" SILENT=true
+[2025.10.22-15.40.18:770][439]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/musicgame
+[2025.10.22-15.40.18:770][439]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/musicgameA1EFCAC44BB9A298B97756A324E3BB21.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset'
+[2025.10.22-15.40.18:770][439]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/warningwithsiren] ([1] browsable assets)...
+[2025.10.22-15.40.18:777][439]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/warningwithsiren.warningwithsiren]
+[2025.10.22-15.40.18:777][439]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/warningwithsiren]
+[2025.10.22-15.40.18:787][439]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/warningwithsiren
+[2025.10.22-15.40.18:787][439]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/warningwithsiren464CC98940DAC4BE2F1C8FA95B230C2D.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/warningwithsiren.uasset'
+[2025.10.22-15.40.18:796][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 190.405 ms (total: 1:05 min)
+[2025.10.22-15.40.18:885][439]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.22-15.40.18:885][439]LogContentValidation: Enabled validators:
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.40.18:885][439]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.40.18:885][439]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/musicgame Validating asset
+[2025.10.22-15.40.18:885][439]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/warningwithsiren Validating asset
+[2025.10.22-15.40.26:313][582]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/First-PersonParkourStarterKit/Audio/warningwithsiren.warningwithsiren
+[2025.10.22-15.40.30:695][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.40.30:765][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/warningwithsiren] ([1] browsable assets)...
+[2025.10.22-15.40.30:772][668]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/warningwithsiren.warningwithsiren]
+[2025.10.22-15.40.30:772][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/warningwithsiren]
+[2025.10.22-15.40.30:782][668]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/warningwithsiren
+[2025.10.22-15.40.30:782][668]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/warningwithsiren31B82CC3492384C194541BB5C8BD1B3E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/warningwithsiren.uasset'
+[2025.10.22-15.40.30:791][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.610 ms (total: 1:05 min)
+[2025.10.22-15.40.30:857][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.40.30:857][668]LogContentValidation: Enabled validators:
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.40.30:857][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.40.30:857][668]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/warningwithsiren Validating asset
+[2025.10.22-15.40.31:930][692]LogSlate: Window 'warningwithsiren' being destroyed
+[2025.10.22-15.40.39:948][819]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame
+[2025.10.22-15.40.43:314][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.40.43:360][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/musicgame] ([1] browsable assets)...
+[2025.10.22-15.40.43:398][885]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame]
+[2025.10.22-15.40.43:398][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/musicgame]
+[2025.10.22-15.40.43:398][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/First-PersonParkourStarterKit/Audio/musicgame" FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset" SILENT=true
+[2025.10.22-15.40.43:458][885]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/musicgame
+[2025.10.22-15.40.43:458][885]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/musicgameA78D19CA48FC3BC1B05E5AAC6C132C13.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset'
+[2025.10.22-15.40.43:468][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.101 ms (total: 1:05 min)
+[2025.10.22-15.40.43:541][885]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.40.43:541][885]LogContentValidation: Enabled validators:
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.40.43:541][885]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.40.43:541][885]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/musicgame Validating asset
+[2025.10.22-15.40.44:524][906]LogSlate: Window 'musicgame' being destroyed
+[2025.10.22-15.40.48:837][  6]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap:PersistentLevel.ParkourMap
+[2025.10.22-15.40.48:839][  6]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.22-15.40.48:903][  6]LogStreaming: Display: FlushAsyncLoading(363): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-15.40.51:569][  6]LogSlate: Took 0.007385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.22-15.41.08:623][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.10.22-15.41.09:287][428]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.41.09:468][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.22-15.41.10:238][428]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.41.10:239][428]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap3D4D22104D0CF072D1A2249F3F2D10D0.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.22-15.41.10:263][428]LogFileHelpers: All files are already saved.
+[2025.10.22-15.41.10:264][428]LogFileHelpers: Saving map 'ParkourMap' took 0.895
+[2025.10.22-15.41.10:273][428]LogFileHelpers: InternalPromptForCheckoutAndSave took 986.084 ms (total: 1:06 min)
+[2025.10.22-15.41.10:325][428]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.41.10:325][428]LogContentValidation: Enabled validators:
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.41.10:325][428]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.41.10:327][428]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.22-15.41.20:840][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.22-15.41.21:349][708]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.41.21:501][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.22-15.41.22:268][708]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.41.22:268][708]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap58C478514CB116CD2ADB929B6EBF434E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.22-15.41.22:292][708]LogFileHelpers: All files are already saved.
+[2025.10.22-15.41.22:293][708]LogFileHelpers: Saving map 'ParkourMap' took 0.885
+[2025.10.22-15.41.22:300][708]LogFileHelpers: InternalPromptForCheckoutAndSave took 951.124 ms (total: 1:07 min)
+[2025.10.22-15.41.22:359][708]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.41.22:359][708]LogContentValidation: Enabled validators:
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.41.22:359][708]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.41.22:360][708]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.22-15.41.29:268][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-15.41.29:268][874]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.41.29:450][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.181432s)
+[2025.10.22-15.41.29:450][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.181466s)
+[2025.10.22-15.41.29:523][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.22-15.41.29:524][874]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.41.29:526][874]LogPlayLevel: PIE: World Init took: (0.002533s)
+[2025.10.22-15.41.29:528][874]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-15.41.29:528][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-15.41.29:528][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-15.41.29:528][874]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-15.41.29:528][874]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-15.41.29:528][874]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-15.41.29:530][874]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-15.41.29:561][874]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.22-15.41.29:561][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-15.41.29:561][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-15.41.29:561][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-15.41.29:561][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.22-15.41.29:561][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.22-15.41.29:563][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.22-15.41.29:564][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.22-15.41.29:564][874]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.22-15.41.29:564][874]LogAudio: Display: Audio Device (ID: 11) registered with world 'ParkourMap'.
+[2025.10.22-15.41.29:564][874]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.22-15.41.29:570][874]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.41.29:683][874]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.41.29
+[2025.10.22-15.41.29:685][874]LogWorld: Bringing up level for play took: 0.114668
+[2025.10.22-15.41.29:688][874]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.22-15.41.29:692][874]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.22-15.41.29:693][874]PIE: Server logged in
+[2025.10.22-15.41.29:696][874]PIE: Play in editor total start time 0.428 seconds.
+[2025.10.22-15.41.29:738][874]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.41.29:738][874]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.41.29:738][874]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.41.50:523][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10810.433594
+[2025.10.22-15.41.50:736][491]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.41.50:738][491]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10810.612305, Update Interval: 317.152008
+[2025.10.22-15.42.37:399][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.42.37:399][790]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.42.37:401][790]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.42.37:432][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.42.37:438][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-15.42.37:446][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.42.37:544][790]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.42.37:551][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.22-15.42.37:551][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.22-15.42.37:553][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.22-15.42.37:558][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.42.37:588][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.10.22-15.42.37:665][791]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.22-15.42.41:159][860]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame
+[2025.10.22-15.42.46:149][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.42.46:238][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/musicgame] ([1] browsable assets)...
+[2025.10.22-15.42.46:277][951]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame]
+[2025.10.22-15.42.46:277][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/musicgame]
+[2025.10.22-15.42.46:277][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/First-PersonParkourStarterKit/Audio/musicgame" FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset" SILENT=true
+[2025.10.22-15.42.46:339][951]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/musicgame
+[2025.10.22-15.42.46:339][951]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/musicgame4FACF03747E77DED973F55812E8A001F.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset'
+[2025.10.22-15.42.46:349][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.240 ms (total: 1:07 min)
+[2025.10.22-15.42.46:424][951]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.42.46:424][951]LogContentValidation: Enabled validators:
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.42.46:424][951]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.42.46:424][951]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/musicgame Validating asset
+[2025.10.22-15.42.47:232][968]LogSlate: Window 'musicgame' being destroyed
+[2025.10.22-15.42.51:475][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-15.42.51:475][ 63]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.42.51:654][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179366s)
+[2025.10.22-15.42.51:654][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.179419s)
+[2025.10.22-15.42.51:739][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.22-15.42.51:741][ 63]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.42.51:743][ 63]LogPlayLevel: PIE: World Init took: (0.002343s)
+[2025.10.22-15.42.51:744][ 63]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-15.42.51:744][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-15.42.51:744][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-15.42.51:744][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-15.42.51:744][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-15.42.51:744][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-15.42.51:746][ 63]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-15.42.51:778][ 63]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.22-15.42.51:778][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-15.42.51:778][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-15.42.51:778][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-15.42.51:779][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.22-15.42.51:779][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.22-15.42.51:781][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.22-15.42.51:781][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.22-15.42.51:781][ 63]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.22-15.42.51:781][ 63]LogAudio: Display: Audio Device (ID: 12) registered with world 'ParkourMap'.
+[2025.10.22-15.42.51:781][ 63]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.22-15.42.51:786][ 63]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.42.51:900][ 63]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.42.51
+[2025.10.22-15.42.51:902][ 63]LogWorld: Bringing up level for play took: 0.115772
+[2025.10.22-15.42.51:905][ 63]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.10.22-15.42.51:909][ 63]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.22-15.42.51:910][ 63]PIE: Server logged in
+[2025.10.22-15.42.51:913][ 63]PIE: Play in editor total start time 0.439 seconds.
+[2025.10.22-15.42.51:955][ 63]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.42.51:955][ 63]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.42.51:955][ 63]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.43.15:441][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.43.15:441][740]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.43.15:449][740]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.43.15:495][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.43.15:500][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-15.43.15:511][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.43.15:613][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.43.15:614][740]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.22-15.43.15:614][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.22-15.43.15:615][740]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.22-15.43.15:621][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.43.15:652][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.10.22-15.43.15:728][741]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.10.22-15.43.16:502][755]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-15.43.18:149][789]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame
+[2025.10.22-15.43.23:120][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.43.23:213][891]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/musicgame] ([1] browsable assets)...
+[2025.10.22-15.43.23:252][891]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/musicgame.musicgame]
+[2025.10.22-15.43.23:252][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/musicgame]
+[2025.10.22-15.43.23:252][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/First-PersonParkourStarterKit/Audio/musicgame" FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset" SILENT=true
+[2025.10.22-15.43.23:311][891]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/musicgame
+[2025.10.22-15.43.23:311][891]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/musicgameFC0EF49E4FCDD29D7A53BD950B0CF090.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/musicgame.uasset'
+[2025.10.22-15.43.23:323][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.895 ms (total: 1:07 min)
+[2025.10.22-15.43.23:388][891]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.43.23:388][891]LogContentValidation: Enabled validators:
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.43.23:388][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.43.23:388][891]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/musicgame Validating asset
+[2025.10.22-15.43.24:030][904]LogSlate: Window 'musicgame' being destroyed
+[2025.10.22-15.43.25:493][938]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.22-15.43.25:530][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-15.43.25:530][938]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.43.25:709][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.179577s)
+[2025.10.22-15.43.25:709][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.179612s)
+[2025.10.22-15.43.25:795][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.10.22-15.43.25:796][938]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.43.25:799][938]LogPlayLevel: PIE: World Init took: (0.002419s)
+[2025.10.22-15.43.25:800][938]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-15.43.25:800][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-15.43.25:800][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-15.43.25:800][938]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-15.43.25:800][938]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-15.43.25:800][938]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-15.43.25:802][938]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-15.43.25:832][938]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.22-15.43.25:832][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-15.43.25:832][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-15.43.25:832][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-15.43.25:832][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.22-15.43.25:832][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.22-15.43.25:835][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.22-15.43.25:835][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.22-15.43.25:835][938]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.22-15.43.25:835][938]LogAudio: Display: Audio Device (ID: 13) registered with world 'ParkourMap'.
+[2025.10.22-15.43.25:835][938]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.22-15.43.25:839][938]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.43.25:951][938]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.43.25
+[2025.10.22-15.43.25:953][938]LogWorld: Bringing up level for play took: 0.114286
+[2025.10.22-15.43.25:956][938]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.10.22-15.43.25:961][938]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.22-15.43.25:961][938]PIE: Server logged in
+[2025.10.22-15.43.25:963][938]PIE: Play in editor total start time 0.433 seconds.
+[2025.10.22-15.43.26:004][938]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.43.26:004][938]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.43.26:004][938]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.43.57:164][768]Cmd: LevelEditor.ToggleImmersive
+[2025.10.22-15.43.59:653][835]LogCharacterMovement: BP_Player_C_1 is stuck and failed to move! Velocity: X=7.49 Y=-73.15 Z=0.00 Location: X=-855.52 Y=-34052.82 Z=1856.29 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:17.112 Actor:StaticMeshActor_151 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.22-15.44.42:061][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.44.42:061][  5]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.44.42:068][  5]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.44.42:113][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.44.42:122][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-15.44.42:132][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.44.42:235][  5]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.44.42:236][  5]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.22-15.44.42:236][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.22-15.44.42:238][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.22-15.44.42:243][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.44.42:272][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.10.22-15.44.42:366][  6]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.10.22-15.44.44:110][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-15.44.44:110][ 41]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.44.44:294][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183174s)
+[2025.10.22-15.44.44:294][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.183210s)
+[2025.10.22-15.44.44:368][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.22-15.44.44:369][ 41]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.44.44:371][ 41]LogPlayLevel: PIE: World Init took: (0.002356s)
+[2025.10.22-15.44.44:372][ 41]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-15.44.44:372][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-15.44.44:372][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-15.44.44:372][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-15.44.44:372][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-15.44.44:372][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-15.44.44:374][ 41]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-15.44.44:404][ 41]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.22-15.44.44:404][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-15.44.44:405][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-15.44.44:405][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-15.44.44:405][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.22-15.44.44:405][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.22-15.44.44:407][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.22-15.44.44:407][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.22-15.44.44:407][ 41]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.22-15.44.44:407][ 41]LogAudio: Display: Audio Device (ID: 14) registered with world 'ParkourMap'.
+[2025.10.22-15.44.44:407][ 41]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.22-15.44.44:413][ 41]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.44.44:524][ 41]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.44.44
+[2025.10.22-15.44.44:526][ 41]LogWorld: Bringing up level for play took: 0.114112
+[2025.10.22-15.44.44:530][ 41]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.10.22-15.44.44:534][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.22-15.44.44:535][ 41]PIE: Server logged in
+[2025.10.22-15.44.44:537][ 41]PIE: Play in editor total start time 0.428 seconds.
+[2025.10.22-15.44.44:578][ 41]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.44.44:578][ 41]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.44.44:578][ 41]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.47.54:648][313]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11174.640625
+[2025.10.22-15.47.54:866][319]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.47.54:866][320]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11174.823242, Update Interval: 347.737061
+[2025.10.22-15.49.23:589][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.49.23:589][728]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.49.23:591][728]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.49.23:621][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.49.23:627][728]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-15.49.23:636][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.49.23:732][728]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.49.23:740][728]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.22-15.49.23:740][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.22-15.49.23:742][728]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.22-15.49.23:779][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2025.10.22-15.49.23:861][729]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.10.22-15.49.23:911][730]Cmd: SELECT NONE
+[2025.10.22-15.49.32:268][920]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/First-PersonParkourStarterKit/Audio/Rain.Rain
+[2025.10.22-15.49.36:761][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.49.36:844][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Audio/Rain] ([1] browsable assets)...
+[2025.10.22-15.49.36:857][ 35]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/First-PersonParkourStarterKit/Audio/Rain.Rain]
+[2025.10.22-15.49.36:857][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Audio/Rain]
+[2025.10.22-15.49.36:857][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/First-PersonParkourStarterKit/Audio/Rain" FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Rain.uasset" SILENT=true
+[2025.10.22-15.49.36:878][ 35]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Audio/Rain
+[2025.10.22-15.49.36:878][ 35]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/Rain73C5AD6A4F72E87536C9438B20A88056.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Audio/Rain.uasset'
+[2025.10.22-15.49.36:888][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.605 ms (total: 1:08 min)
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: Enabled validators:
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.49.36:952][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.49.36:953][ 35]AssetCheck: /Game/First-PersonParkourStarterKit/Audio/Rain Validating asset
+[2025.10.22-15.49.38:245][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.22-15.49.38:282][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.22-15.49.38:282][ 66]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.49.38:463][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.180902s)
+[2025.10.22-15.49.38:463][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.180940s)
+[2025.10.22-15.49.38:551][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.22-15.49.38:552][ 66]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.49.38:555][ 66]LogPlayLevel: PIE: World Init took: (0.002440s)
+[2025.10.22-15.49.38:556][ 66]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-15.49.38:556][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-15.49.38:556][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-15.49.38:556][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-15.49.38:556][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-15.49.38:556][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-15.49.38:558][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-15.49.38:588][ 66]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.22-15.49.38:588][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-15.49.38:588][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-15.49.38:588][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-15.49.38:588][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.22-15.49.38:590][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.22-15.49.38:592][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.22-15.49.38:592][ 66]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.22-15.49.38:592][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.22-15.49.38:592][ 66]LogAudio: Display: Audio Device (ID: 15) registered with world 'ParkourMap'.
+[2025.10.22-15.49.38:592][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.22-15.49.38:595][ 66]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.49.38:708][ 66]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.49.38
+[2025.10.22-15.49.38:710][ 66]LogWorld: Bringing up level for play took: 0.114309
+[2025.10.22-15.49.38:713][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.10.22-15.49.38:717][ 66]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.22-15.49.38:718][ 66]PIE: Server logged in
+[2025.10.22-15.49.38:719][ 66]PIE: Play in editor total start time 0.438 seconds.
+[2025.10.22-15.49.38:760][ 66]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.49.38:760][ 66]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.49.38:760][ 66]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.50.01:729][688]Cmd: LevelEditor.ToggleImmersive
+[2025.10.22-15.53.15:909][ 29]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.22-15.53.15:909][ 29]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.22-15.53.19:054][276]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.22-15.53.19:055][276]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.22-15.53.48:917][ 94]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.22-15.53.48:917][ 94]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.22-15.53.53:215][436]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap"
+[2025.10.22-15.53.53:215][436]LogNet: Browse: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.53.53:215][436]LogLoad: LoadMap: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.53.53:217][436]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.53.53:241][436]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.53.53:272][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.53.53:415][436]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.53.53:447][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2025.10.22-15.53.53:452][436]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.53.53:636][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.183075s)
+[2025.10.22-15.53.53:636][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.183128s)
+[2025.10.22-15.53.53:636][436]LogAudio: Display: Audio Device (ID: 15) registered with world 'ParkourMap'.
+[2025.10.22-15.53.53:636][436]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.53.53:638][436]LogPlayLevel: PIE: World Init took: (0.002510s)
+[2025.10.22-15.53.53:638][436]LogLoad: Game class is 'GameModeBase'
+[2025.10.22-15.53.53:751][436]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.22-16.53.53
+[2025.10.22-15.53.53:753][436]LogWorld: Bringing up level for play took: 0.114631
+[2025.10.22-15.53.53:758][436]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.22-15.53.53:758][436]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.22-15.53.53:759][436]LogLoad: Took 0.543180 seconds to LoadMap(/Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap)
+[2025.10.22-15.53.53:759][436]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.53.53:800][436]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.53.53:800][436]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.53.53:800][436]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.22-15.53.55:478][525]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.22-15.53.55:478][525]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.22-15.53.57:092][657]Cmd: quit
+[2025.10.22-15.53.57:093][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.53.57:093][657]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.22-15.53.57:135][657]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.53.57:180][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.53.57:188][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.22-15.53.57:197][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.53.57:302][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.22-15.53.57:302][657]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.22-15.53.57:302][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.22-15.53.57:304][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.22-15.53.57:339][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.10.22-15.53.57:404][658]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.10.22-15.53.59:887][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.54.00:062][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.22-15.54.00:863][722]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.54.00:863][722]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap1C454F9F497B62F5F9EE27AF568164FB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.22-15.54.00:886][722]LogFileHelpers: All files are already saved.
+[2025.10.22-15.54.00:886][722]LogFileHelpers: Saving map 'ParkourMap' took 0.919
+[2025.10.22-15.54.00:894][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.00 sec (total: 1:09 min)
+[2025.10.22-15.54.00:962][722]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.54.00:962][722]LogContentValidation: Enabled validators:
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.54.00:962][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.54.00:963][722]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.22-15.54.23:857][339]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.22-15.54.24:147][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11564.241211
+[2025.10.22-15.54.24:352][350]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-15.54.24:352][350]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11564.405273, Update Interval: 340.733063
+[2025.10.22-15.54.29:053][468]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/RaiseWater2.RaiseWater2
+[2025.10.22-15.54.29:053][468]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.22-15.54.29:113][468]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-15.54.44:709][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.22-15.54.44:711][844]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-15.54.44:932][844]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.22-15.54.44:934][844]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2025.10.22-15.54.44:934][844]Cmd: MAP LOAD FILE="D:/Blocktober2025/RisingThreatFP/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.22-15.54.45:152][844]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.54.45:152][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.54.45:199][844]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.54.45:201][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.54.45:226][844]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.54.45:281][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2025.10.22-15.54.45:295][844]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.54.45:295][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.54.45:314][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.10.22-15.54.45:333][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.10.22-15.54.45:357][844]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2025.10.22-15.54.45:357][844]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2025.10.22-15.54.45:395][844]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.22-15.54.45:414][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.10.22-15.54.45:421][844]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.22-15.54.45:421][844]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2025.10.22-15.54.45:513][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.22-15.54.49:074][213]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2025.10.22-15.54.49:074][213]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.22-15.54.58:222][209]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_MainMenu.WB_MainMenu
+[2025.10.22-15.54.58:222][209]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.22-15.54.58:232][209]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.22-15.54.58:245][209]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.10.22-15.54.58:853][209]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.10.22-15.54.58:861][209]LogSlate: Took 0.006797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.22-15.55.08:405][320]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits.WB_Credits
+[2025.10.22-15.55.08:406][320]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.22-15.55.08:413][320]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.22-15.56.45:635][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.22-15.56.46:409][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.56.46:461][927]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits] ([2] browsable assets)...
+[2025.10.22-15.56.46:470][927]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits.WB_Credits]
+[2025.10.22-15.56.46:470][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits]
+[2025.10.22-15.56.46:476][927]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits
+[2025.10.22-15.56.46:476][927]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/WB_CreditsEEDDADA9462DF830E53853A2A16982C6.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits.uasset'
+[2025.10.22-15.56.46:487][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.374 ms (total: 1:09 min)
+[2025.10.22-15.56.46:545][927]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.56.46:545][927]LogContentValidation: Enabled validators:
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.56.46:545][927]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.56.46:546][927]AssetCheck: /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits Validating asset
+[2025.10.22-15.56.47:872][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.56.47:908][ 84]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits] ([2] browsable assets)...
+[2025.10.22-15.56.47:908][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits]
+[2025.10.22-15.56.47:914][ 84]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits
+[2025.10.22-15.56.47:914][ 84]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/WB_CreditsC3EB31664597076C9E7FA48179DE505B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits.uasset'
+[2025.10.22-15.56.47:923][ 84]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.053 ms (total: 1:09 min)
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: Enabled validators:
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.56.47:989][ 84]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.56.47:989][ 84]AssetCheck: /Game/First-PersonParkourStarterKit/Blueprints/UI/WB_Credits Validating asset
+[2025.10.22-15.57.11:840][662]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:841][662]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:848][663]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:857][664]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:866][665]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:875][666]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:884][667]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:894][668]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:903][669]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:910][670]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:919][671]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:927][672]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:936][673]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:945][674]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:954][675]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:962][676]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:971][677]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:980][678]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:988][679]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.11:997][680]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:005][681]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:013][682]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:022][683]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:030][684]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:039][685]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:048][686]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:056][687]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:065][688]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:073][689]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:082][690]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:090][691]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:099][692]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:107][693]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:116][694]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:124][695]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:133][696]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:141][697]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:150][698]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:159][699]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:167][700]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:176][701]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:185][702]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:193][703]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:202][704]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:211][705]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:219][706]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:227][707]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:236][708]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:245][709]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:254][710]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:262][711]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:271][712]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:279][713]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:288][714]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:296][715]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:305][716]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:313][717]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:323][718]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:332][719]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:341][720]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:350][721]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:358][722]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.12:368][723]LogPhysics: Warning: Scale for /Engine/Transient.World_5:PersistentLevel.RaiseWater2_C_0.Box has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.22-15.57.30:628][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.57.30:696][777]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RaiseWater2] ([2] browsable assets)...
+[2025.10.22-15.57.30:707][777]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RaiseWater2.RaiseWater2]
+[2025.10.22-15.57.30:707][777]OBJ SavePackage: Finished generating thumbnails for package [/Game/RaiseWater2]
+[2025.10.22-15.57.30:707][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaiseWater2" FILE="D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset" SILENT=true
+[2025.10.22-15.57.30:712][777]LogSavePackage: Moving output files for package: /Game/RaiseWater2
+[2025.10.22-15.57.30:712][777]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/RaiseWater2836D4CA142169A3F295E45A1259EED12.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset'
+[2025.10.22-15.57.30:719][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.832 ms (total: 1:09 min)
+[2025.10.22-15.57.30:790][777]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.57.30:790][777]LogContentValidation: Enabled validators:
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.57.30:790][777]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.57.30:790][777]AssetCheck: /Game/RaiseWater2 Validating asset
+[2025.10.22-15.57.37:890][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.22-15.57.38:689][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.57.38:742][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RaiseWater2] ([2] browsable assets)...
+[2025.10.22-15.57.38:751][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RaiseWater2.RaiseWater2]
+[2025.10.22-15.57.38:751][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/RaiseWater2]
+[2025.10.22-15.57.38:751][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaiseWater2" FILE="D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset" SILENT=true
+[2025.10.22-15.57.38:756][639]LogSavePackage: Moving output files for package: /Game/RaiseWater2
+[2025.10.22-15.57.38:756][639]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/RaiseWater2444CF1164D808BB7D10ECA96D89F944E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset'
+[2025.10.22-15.57.38:763][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.180 ms (total: 1:09 min)
+[2025.10.22-15.57.38:826][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.57.38:826][639]LogContentValidation: Enabled validators:
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.57.38:826][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.57.38:826][639]AssetCheck: /Game/RaiseWater2 Validating asset
+[2025.10.22-15.58.00:233][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.22-15.58.00:892][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.58.00:942][166]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RaiseWater2] ([2] browsable assets)...
+[2025.10.22-15.58.00:989][166]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RaiseWater2.RaiseWater2]
+[2025.10.22-15.58.00:989][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/RaiseWater2]
+[2025.10.22-15.58.00:989][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaiseWater2" FILE="D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset" SILENT=true
+[2025.10.22-15.58.00:995][166]LogSavePackage: Moving output files for package: /Game/RaiseWater2
+[2025.10.22-15.58.00:996][166]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/RaiseWater2F2DE00F8461421DCCC0AB79CBF97CCA2.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset'
+[2025.10.22-15.58.01:003][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.262 ms (total: 1:09 min)
+[2025.10.22-15.58.01:058][166]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.58.01:059][166]LogContentValidation: Enabled validators:
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.58.01:059][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.58.01:059][166]AssetCheck: /Game/RaiseWater2 Validating asset
+[2025.10.22-15.58.04:040][496]Cmd: MAP LOAD FILE="D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.22-15.58.04:119][496]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.58.04:119][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.58.04:166][496]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-15.58.04:166][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-15.58.04:183][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.22-15.58.04:186][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.22-15.58.04:190][496]LogStreaming: Display: FlushAsyncLoading(527): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-15.58.04:630][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'ParkourMap'.
+[2025.10.22-15.58.04:630][496]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.22-15.58.05:118][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.22-15.58.05:170][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.22-15.58.05:177][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.22-15.58.05:178][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.436ms to complete.
+[2025.10.22-15.58.05:217][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.22-15.58.42:560][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.22-15.58.43:151][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.58.43:210][457]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/RaiseWater2] ([2] browsable assets)...
+[2025.10.22-15.58.43:227][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/RaiseWater2.RaiseWater2]
+[2025.10.22-15.58.43:227][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/RaiseWater2]
+[2025.10.22-15.58.43:227][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaiseWater2" FILE="D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset" SILENT=true
+[2025.10.22-15.58.43:232][457]LogSavePackage: Moving output files for package: /Game/RaiseWater2
+[2025.10.22-15.58.43:232][457]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/RaiseWater23BF1BF83413D3C37D47C0EA7E3D02379.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/RaiseWater2.uasset'
+[2025.10.22-15.58.43:239][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.827 ms (total: 1:09 min)
+[2025.10.22-15.58.43:291][457]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.58.43:291][457]LogContentValidation: Enabled validators:
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.58.43:291][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.58.43:291][457]AssetCheck: /Game/RaiseWater2 Validating asset
+[2025.10.22-15.58.46:233][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.58.46:358][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.22-15.58.47:134][529]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.58.47:134][529]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCE3C0C874A4BD025081379A59CAC66A6.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.22-15.58.47:157][529]LogFileHelpers: All files are already saved.
+[2025.10.22-15.58.47:157][529]LogFileHelpers: Saving map 'ParkourMap' took 0.837
+[2025.10.22-15.58.47:165][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 931.756 ms (total: 1:10 min)
+[2025.10.22-15.58.47:240][529]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.58.47:240][529]LogContentValidation: Enabled validators:
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.58.47:240][529]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.58.47:242][529]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.22-15.58.49:141][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-15.58.49:239][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.22-15.58.49:999][572]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.22-15.58.50:000][572]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap126CF75644414A60526BEABA7647385E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.22-15.58.50:022][572]LogFileHelpers: All files are already saved.
+[2025.10.22-15.58.50:023][572]LogFileHelpers: Saving map 'ParkourMap' took 0.821
+[2025.10.22-15.58.50:032][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 890.531 ms (total: 1:11 min)
+[2025.10.22-15.58.50:133][572]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-15.58.50:134][572]LogContentValidation: Enabled validators:
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-15.58.50:134][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-15.58.50:135][572]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
