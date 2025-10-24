@@ -5292,3 +5292,1009 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.23-13.48.00:882][983]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.23-13.48.00:882][983]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.23-13.48.00:885][983]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.23-13.52.39:095][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 90714.890625
+[2025.10.23-13.52.40:083][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-13.52.40:083][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 90715.554688, Update Interval: 336.450073
+[2025.10.23-13.54.01:580][140]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-13.54.01:711][140]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.23-13.54.01:759][140]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-13.54.01:759][140]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-13.54.02:096][141]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-13.54.02:106][141]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=96.63
+[2025.10.23-13.54.02:106][141]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-13.54.02:118][141]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-15.34.54:568][143]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [6052 Seconds] waiting for h/w. InstanceID=1
+[2025.10.23-15.34.56:380][143]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.34.56:380][143]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-15.34.57:189][144]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.34.57:189][144]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=608.58
+[2025.10.23-15.34.57:189][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-15.34.57:315][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-15.34.57:323][144]LogHttp: Warning: 00000B7F63E44D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.57:323][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 0 (Too old connection (6075 seconds idle), disconnect it)
+[2025.10.23-15.34.57:324][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 1 (Connection 18 seems to be dead)
+[2025.10.23-15.34.57:324][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 2 (Closing connection)
+[2025.10.23-15.34.57:324][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.23-15.34.57:324][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.23-15.34.57:324][144]LogHttp: Warning: 00000B7F63E44D00: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 0 (Too old connection (6077 seconds idle), disconnect it)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 1 (Connection 190 seems to be dead)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 2 (Closing connection)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.34.57:324][144]LogEOSSDK: Warning: LogHttp: 00000B7F542D2400: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.34.57:324][145]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 0 (Found bundle for host: 0xb6e50080b40 [serially])
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 2 (Closing connection)
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.34.57:440][146]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.23-15.34.57:530][146]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-15.34.57:764][146]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.34.57:764][146]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-15.34.58:447][148]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.34.58:447][149]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.23-15.34.58:518][149]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-15.34.58:592][149]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{33c2e4b2-3bb5-4fce-b24d-133bcf3ccd18} Name=MSI G271 (NVIDIA High Definition Audio))
+[2025.10.23-15.34.58:770][149]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.34.58:770][149]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.58:770][149]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.34.58:770][149]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 3 (Closing connection)
+[2025.10.23-15.34.58:770][149]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 3 (Found bundle for host: 0xb6e50080a50 [serially])
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.34.58:770][150]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.23-15.35.00:102][153]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.00:102][154]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 6 (Found bundle for host: 0xb6e50080f90 [serially])
+[2025.10.23-15.35.00:437][154]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.00:437][155]LogEOSSDK: Warning: LogHttp: 00000B7F542D4800: libcurl info message cache 8 (Closing connection)
+[2025.10.23-15.35.00:437][155]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.00:437][155]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.23-15.35.00:437][155]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.23-15.35.01:768][158]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.02:102][159]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.02:102][159]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.02:102][160]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.02:102][160]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 7 (Closing connection)
+[2025.10.23-15.35.02:102][160]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.03:103][162]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.03:436][163]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.03:436][163]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.03:436][163]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.03:436][163]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 9 (Closing connection)
+[2025.10.23-15.35.03:436][164]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.03:436][164]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.23-15.35.04:089][165]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.23-15.35.04:102][165]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.23-15.35.04:435][166]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.04:435][166]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.04:435][166]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.04:435][166]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.35.04:435][167]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.05:437][169]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.05:769][170]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.05:769][170]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.05:769][170]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.05:769][170]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 3 (Closing connection)
+[2025.10.23-15.35.05:769][171]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.06:771][173]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.07:097][174]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.35.07:099][174]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7ad9e3b2-dcc0-47dd-b5cb-009f14fecf0b}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=7813.42
+[2025.10.23-15.35.07:099][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-15.35.07:101][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-15.35.07:107][174]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.07:107][174]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.07:107][174]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.07:107][174]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.35.07:107][174]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.07:431][175]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.35.07:431][175]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-15.35.07:764][176]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.35.07:766][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7ad9e3b2-dcc0-47dd-b5cb-009f14fecf0b}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=27.32
+[2025.10.23-15.35.07:766][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-15.35.07:769][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-15.35.08:436][178]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.08:769][179]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.08:769][180]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.08:769][180]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.08:769][180]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 7 (Closing connection)
+[2025.10.23-15.35.08:769][180]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.09:770][182]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.10:104][183]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.10:104][183]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.10:104][184]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.10:104][184]LogEOSSDK: Warning: LogHttp: 00000B7F542DF600: libcurl info message cache 9 (Closing connection)
+[2025.10.23-15.35.10:104][184]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.10:104][184]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.23-15.35.10:771][185]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.23-15.35.14:771][197]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.14:771][197]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.14:771][198]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.14:771][198]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.35.14:771][198]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.15:771][200]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.16:104][201]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.16:104][201]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.16:104][201]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.16:104][202]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 3 (Closing connection)
+[2025.10.23-15.35.16:104][202]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.17:104][204]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.17:438][205]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.17:438][205]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.17:438][205]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.17:438][206]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.35.17:438][206]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.18:438][208]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.18:771][209]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.18:771][209]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.18:771][209]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.18:771][210]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 7 (Closing connection)
+[2025.10.23-15.35.18:771][210]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.20:105][213]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.20:437][214]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.20:437][214]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.20:437][214]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.20:437][215]LogEOSSDK: Warning: LogHttp: 00000B7F542D6000: libcurl info message cache 9 (Closing connection)
+[2025.10.23-15.35.20:437][215]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.20:437][215]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.23-15.35.21:105][216]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.23-15.35.27:438][235]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.27:439][235]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.27:439][236]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.27:439][236]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.35.27:439][236]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.28:772][239]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.29:106][240]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.29:106][241]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.29:106][241]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.29:106][241]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 3 (Closing connection)
+[2025.10.23-15.35.29:106][241]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.30:438][244]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.30:772][245]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.30:772][245]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.30:772][246]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.30:772][246]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.35.30:772][246]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.31:772][248]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.32:106][249]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.32:106][250]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.32:106][250]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.32:106][250]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 7 (Closing connection)
+[2025.10.23-15.35.32:106][250]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.33:107][253]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.33:439][253]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.33:439][253]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.33:439][253]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.33:439][254]LogEOSSDK: Warning: LogHttp: 00000B7F542D1800: libcurl info message cache 9 (Closing connection)
+[2025.10.23-15.35.33:439][254]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.33:439][254]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.23-15.35.34:106][255]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.23-15.35.40:105][273]LogEOSSDK: Warning: LogHttp: 00000B7F542DD800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.40:106][274]LogEOSSDK: Warning: LogHttp: 00000B7F542DD800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.40:106][274]LogEOSSDK: Warning: LogHttp: 00000B7F542DD800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.40:106][274]LogEOSSDK: Warning: LogHttp: 00000B7F542DD800: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.35.40:439][274]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.23-15.35.40:772][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96897.046875
+[2025.10.23-15.35.44:772][287]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.44:772][287]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.44:772][288]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.44:772][288]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.35.44:772][288]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.45:773][290]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.46:106][291]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.46:107][292]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.46:107][292]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.46:107][292]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 3 (Closing connection)
+[2025.10.23-15.35.46:107][292]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.47:108][294]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.47:442][295]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.47:442][295]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.47:442][295]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.47:442][296]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 5 (Closing connection)
+[2025.10.23-15.35.47:442][296]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.48:775][299]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.49:108][300]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.49:108][301]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.49:108][301]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.49:108][301]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 7 (Closing connection)
+[2025.10.23-15.35.49:108][301]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.50:107][303]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.50:441][304]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.23-15.35.50:441][304]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.50:441][304]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.23-15.35.50:441][305]LogEOSSDK: Warning: LogHttp: 00000B7F542D5A00: libcurl info message cache 9 (Closing connection)
+[2025.10.23-15.35.50:441][305]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.23-15.35.50:441][305]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.23-15.35.51:108][306]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.23-15.35.51:108][306]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 53.276161 seconds
+[2025.10.23-15.35.56:777][323]LogHttp: Warning: 00000B7F63E48500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.23-15.35.56:777][324]LogHttp: Warning: 00000B7F63E48500: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.23-15.35.56:777][324]LogHttp: Warning: 00000B7F63E48500: libcurl info message cache 1 (Closing connection)
+[2025.10.23-15.36.44:120][465]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 96960.750000
+[2025.10.23-15.36.45:117][468]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-15.36.45:117][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 96961.414062, Update Interval: 312.592560
+[2025.10.23-15.42.45:499][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 97322.757812
+[2025.10.23-15.42.46:499][552]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-15.42.46:499][552]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 97323.429688, Update Interval: 322.660004
+[2025.10.23-15.48.55:892][660]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 97693.906250
+[2025.10.23-15.48.56:885][663]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-15.48.56:885][663]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 97694.554688, Update Interval: 317.531067
+[2025.10.23-15.54.22:632][641]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-15.54.22:724][641]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.23-15.54.22:905][641]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.54.22:905][641]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-15.54.23:238][642]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-15.54.23:240][642]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=47.48
+[2025.10.23-15.54.23:241][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-15.54.23:243][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-15.54.59:591][751]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98058.109375
+[2025.10.23-15.55.00:585][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-15.55.00:585][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98058.773438, Update Interval: 342.743622
+[2025.10.23-16.01.19:961][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98439.539062
+[2025.10.23-16.01.20:954][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.01.20:954][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98440.203125, Update Interval: 309.371613
+[2025.10.23-16.06.39:633][851]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-16.07.20:677][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 98800.445312
+[2025.10.23-16.07.21:660][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.07.21:660][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 98801.093750, Update Interval: 343.454102
+[2025.10.23-16.14.02:048][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99202.023438
+[2025.10.23-16.14.03:047][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.14.03:047][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99202.671875, Update Interval: 331.138031
+[2025.10.23-16.20.27:426][334]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99587.648438
+[2025.10.23-16.20.28:417][337]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.20.28:417][338]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99588.304688, Update Interval: 329.367340
+[2025.10.23-16.26.51:114][485]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 99971.507812
+[2025.10.23-16.26.52:128][488]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.26.52:128][488]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 99972.187500, Update Interval: 339.899902
+[2025.10.23-16.33.13:486][632]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 100354.148438
+[2025.10.23-16.33.14:479][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.33.14:479][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 100354.828125, Update Interval: 357.332062
+[2025.10.23-16.39.52:193][828]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 100753.187500
+[2025.10.23-16.39.53:189][831]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.39.53:189][831]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 100753.859375, Update Interval: 336.666168
+[2025.10.23-16.46.24:574][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101145.906250
+[2025.10.23-16.46.25:567][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.46.25:567][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 101146.570312, Update Interval: 340.667145
+[2025.10.23-16.52.38:605][127]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101520.664062
+[2025.10.23-16.52.39:610][130]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.52.39:610][130]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 101521.328125, Update Interval: 359.082611
+[2025.10.23-16.59.11:979][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 101914.390625
+[2025.10.23-16.59.12:977][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-16.59.12:977][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 101915.062500, Update Interval: 358.300720
+[2025.10.23-17.06.07:690][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102330.390625
+[2025.10.23-17.06.08:696][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.06.08:696][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102331.054688, Update Interval: 338.753632
+[2025.10.23-17.06.39:632][650]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-17.12.32:410][708]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 102715.398438
+[2025.10.23-17.12.33:401][711]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.12.33:401][712]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 102716.054688, Update Interval: 345.763123
+[2025.10.23-17.19.01:778][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103105.031250
+[2025.10.23-17.19.02:798][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.19.02:798][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103105.703125, Update Interval: 335.104218
+[2025.10.23-17.25.14:182][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103477.656250
+[2025.10.23-17.25.15:169][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.25.15:170][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103478.312500, Update Interval: 354.874725
+[2025.10.23-17.31.53:551][191]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103877.328125
+[2025.10.23-17.31.54:537][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.31.54:537][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 103877.984375, Update Interval: 307.628418
+[2025.10.23-17.37.45:910][248]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 104229.906250
+[2025.10.23-17.37.50:579][262]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.37.50:579][262]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104234.257812, Update Interval: 319.027069
+[2025.10.23-17.43.52:955][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 104597.070312
+[2025.10.23-17.43.53:953][352]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.43.53:953][352]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104597.734375, Update Interval: 358.417908
+[2025.10.23-17.50.34:688][554]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 104998.960938
+[2025.10.23-17.50.35:669][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.50.35:669][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 104999.617188, Update Interval: 330.934784
+[2025.10.23-17.56.51:718][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 105376.179688
+[2025.10.23-17.56.52:711][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-17.56.52:711][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 105376.851562, Update Interval: 306.833710
+[2025.10.23-18.02.38:423][725]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 105723.054688
+[2025.10.23-18.02.39:418][728]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.02.39:419][728]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 105723.718750, Update Interval: 309.695740
+[2025.10.23-18.06.39:632][449]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-18.08.42:131][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106086.937500
+[2025.10.23-18.08.43:133][819]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.08.43:133][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106087.601562, Update Interval: 308.216187
+[2025.10.23-18.14.30:847][862]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106435.835938
+[2025.10.23-18.14.31:839][865]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.14.31:839][865]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106436.492188, Update Interval: 304.094360
+[2025.10.23-18.20.25:868][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 106791.234375
+[2025.10.23-18.20.26:868][930]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.20.26:868][930]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106791.906250, Update Interval: 358.467346
+[2025.10.23-18.27.10:249][141]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 107195.718750
+[2025.10.23-18.27.11:258][143]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.27.11:258][143]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 107196.382812, Update Interval: 308.970612
+[2025.10.23-18.33.11:283][224]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 107557.164062
+[2025.10.23-18.33.12:276][226]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.33.12:276][226]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 107557.843750, Update Interval: 336.429932
+[2025.10.23-18.39.20:648][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 107926.695312
+[2025.10.23-18.39.21:665][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.39.21:665][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 107927.375000, Update Interval: 301.554626
+[2025.10.23-18.45.10:364][380]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 108276.648438
+[2025.10.23-18.45.11:366][383]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.45.11:366][384]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 108277.320312, Update Interval: 345.907776
+[2025.10.23-18.51.48:405][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 108675.023438
+[2025.10.23-18.51.49:418][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.51.49:418][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 108675.687500, Update Interval: 334.637299
+[2025.10.23-18.57.57:112][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 109043.992188
+[2025.10.23-18.57.58:115][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-18.57.58:115][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 109044.664062, Update Interval: 309.201324
+[2025.10.23-19.03.39:492][707]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 109386.539062
+[2025.10.23-19.03.40:483][710]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.03.40:483][710]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 109387.203125, Update Interval: 313.456818
+[2025.10.23-19.06.39:633][248]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-19.09.46:845][809]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 109754.109375
+[2025.10.23-19.09.47:851][812]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.09.47:851][812]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 109754.789062, Update Interval: 314.057434
+[2025.10.23-19.15.33:545][849]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 110101.109375
+[2025.10.23-19.15.34:562][852]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.15.34:562][852]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 110101.781250, Update Interval: 313.165680
+[2025.10.23-19.21.29:582][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 110457.406250
+[2025.10.23-19.21.30:589][920]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.21.30:589][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 110458.085938, Update Interval: 305.877869
+[2025.10.23-19.27.35:650][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 110823.679688
+[2025.10.23-19.27.36:632][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.27.36:632][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 110824.328125, Update Interval: 343.756226
+[2025.10.23-19.34.12:668][206]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 111220.921875
+[2025.10.23-19.34.13:668][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.34.13:668][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 111221.601562, Update Interval: 327.080292
+[2025.10.23-19.40.28:040][332]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 111596.671875
+[2025.10.23-19.40.29:042][335]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.40.29:042][335]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 111597.351562, Update Interval: 359.329803
+[2025.10.23-19.47.17:422][561]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 112006.195312
+[2025.10.23-19.47.18:415][563]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.47.18:415][563]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 112006.859375, Update Interval: 315.489380
+[2025.10.23-19.53.21:431][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 112370.328125
+[2025.10.23-19.53.22:432][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.53.22:432][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 112370.992188, Update Interval: 318.565643
+[2025.10.23-19.59.15:426][714]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 112724.539062
+[2025.10.23-19.59.16:419][717]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-19.59.16:419][717]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 112725.218750, Update Interval: 303.618286
+[2025.10.23-20.05.15:420][794]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 113084.796875
+[2025.10.23-20.05.16:417][797]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.05.16:417][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 113085.460938, Update Interval: 313.301178
+[2025.10.23-20.06.39:633][ 47]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-20.11.24:084][900]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 113453.812500
+[2025.10.23-20.11.25:090][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.11.25:090][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 113454.484375, Update Interval: 330.735199
+[2025.10.23-20.17.28:430][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 113818.359375
+[2025.10.23-20.17.29:436][996]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.17.29:436][996]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 113819.046875, Update Interval: 332.031616
+[2025.10.23-20.23.34:437][ 92]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 114184.656250
+[2025.10.23-20.23.35:430][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.23.35:430][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 114185.320312, Update Interval: 309.549255
+[2025.10.23-20.29.35:777][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 114546.101562
+[2025.10.23-20.29.36:776][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.29.36:776][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 114546.765625, Update Interval: 335.283661
+[2025.10.23-20.35.47:465][290]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 114917.945312
+[2025.10.23-20.35.48:460][293]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.35.48:460][293]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 114918.625000, Update Interval: 359.468994
+[2025.10.23-20.42.26:165][486]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 115316.921875
+[2025.10.23-20.42.27:156][489]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.42.27:156][489]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 115317.585938, Update Interval: 329.678650
+[2025.10.23-20.48.41:853][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 115692.781250
+[2025.10.23-20.48.42:845][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.48.42:845][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 115693.453125, Update Interval: 348.202148
+[2025.10.23-20.55.29:193][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 116100.203125
+[2025.10.23-20.55.30:212][838]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-20.55.30:213][838]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 116100.867188, Update Interval: 337.594543
+[2025.10.23-21.01.59:230][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 116490.570312
+[2025.10.23-21.02.00:239][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.02.00:240][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 116491.234375, Update Interval: 353.682678
+[2025.10.23-21.06.39:633][847]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.23-21.08.23:935][159]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 116875.476562
+[2025.10.23-21.08.24:924][162]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.08.24:924][162]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 116876.132812, Update Interval: 309.276398
+[2025.10.23-21.14.27:294][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 117239.078125
+[2025.10.23-21.14.28:278][252]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.14.28:278][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 117239.734375, Update Interval: 308.098999
+[2025.10.23-21.20.20:649][309]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 117592.687500
+[2025.10.23-21.20.21:656][312]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.20.21:656][312]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 117593.351562, Update Interval: 354.294250
+[2025.10.23-21.27.09:680][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 118001.882812
+[2025.10.23-21.27.10:673][539]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.27.10:673][539]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 118002.546875, Update Interval: 355.989868
+[2025.10.23-21.33.55:042][753]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 118407.335938
+[2025.10.23-21.33.56:044][755]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.33.56:044][755]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 118408.007812, Update Interval: 319.197357
+[2025.10.23-21.39.55:737][834]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 118768.257812
+[2025.10.23-21.39.56:733][837]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.23-21.39.56:733][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 118768.929688, Update Interval: 308.192383
+[2025.10.23-21.40.46:108][986]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-21.40.46:288][986]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-21.40.46:402][986]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-21.40.46:403][986]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-21.40.46:735][987]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-21.40.46:737][987]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7ad9e3b2-dcc0-47dd-b5cb-009f14fecf0b}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=239.02
+[2025.10.23-21.40.46:737][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-21.40.46:739][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.23-21.41.15:707][ 74]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.23-21.41.15:741][ 74]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.23-21.41.15:741][ 74]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.23-21.41.15:768][ 75]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{33c2e4b2-3bb5-4fce-b24d-133bcf3ccd18} Name=MSI G271 (NVIDIA High Definition Audio))
+[2025.10.23-21.41.15:900][ 75]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.23-21.41.16:744][ 77]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.23-21.41.16:752][ 77]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=60.16
+[2025.10.23-21.41.16:752][ 77]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.23-21.41.16:755][ 77]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 0 (Too old connection (46155 seconds idle), disconnect it)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 1 (Connection 26 seems to be dead)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 2 (Closing connection)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.24-10.30.12:158][ 81]LogHttp: Warning: 00000B7F63E4EE00: libcurl info message cache 5 (Closing connection)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D9000: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D9000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D9000: libcurl info message cache 0 (Found bundle for host: 0xb6e500801e0 [serially])
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D9000: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D9000: libcurl info message cache 2 (Closing connection)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D1200: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D1200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D1200: libcurl info message cache 0 (Found bundle for host: 0xb6e500801e0 [serially])
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D1200: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.24-10.30.12:158][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D1200: libcurl info message cache 2 (Closing connection)
+[2025.10.24-10.30.12:159][ 81]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 0 (Too old connection (46146 seconds idle), disconnect it)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 1 (Connection 294 seems to be dead)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 2 (Closing connection)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: 00000B7F542D5400: libcurl info message cache 5 (Closing connection)
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.24-10.30.12:159][ 82]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.24-10.30.12:186][ 82]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7B163E7B0B-416F-E3E3-80CF-C2B3F51550DB%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.24-10.30.12:402][ 83]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.24-10.30.12:496][ 83]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.24-10.30.12:496][ 83]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.24-10.30.13:005][ 85]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.24-10.30.13:035][ 85]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 337) with Args (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{33c2e4b2-3bb5-4fce-b24d-133bcf3ccd18} Name=MSI G271 (NVIDIA High Definition Audio))
+[2025.10.24-10.30.13:168][ 85]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.24-10.30.13:168][ 85]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.24-10.30.14:169][ 88]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.24-10.30.14:169][ 88]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=03EF7EC74107C5CB4CADAB9FE9DF4FB3
+[2025.10.24-10.30.18:477][101]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.24-10.30.21:830][111]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.24-10.30.21:832][111]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7ad9e3b2-dcc0-47dd-b5cb-009f14fecf0b}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8260.24
+[2025.10.24-10.30.21:832][111]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.24-10.30.21:835][111]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.24-10.30.22:162][112]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.24-10.30.22:162][112]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=16908
+[2025.10.24-10.30.22:496][113]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.24-10.30.22:497][113]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7ad9e3b2-dcc0-47dd-b5cb-009f14fecf0b}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=28.72
+[2025.10.24-10.30.22:497][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.24-10.30.22:500][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.24-10.30.48:001][189]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 165020.265625
+[2025.10.24-10.30.48:999][192]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-10.30.48:999][192]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 165020.921875, Update Interval: 348.282715
+[2025.10.24-10.37.33:058][404]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 165423.437500
+[2025.10.24-10.37.34:063][407]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-10.37.34:063][407]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 165424.109375, Update Interval: 323.612183
+[2025.10.24-10.43.47:449][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 165796.062500
+[2025.10.24-10.43.48:448][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-10.43.48:448][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 165796.734375, Update Interval: 314.278992
+[2025.10.24-10.49.51:146][618]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 166156.406250
+[2025.10.24-10.49.52:146][621]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-10.49.52:146][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 166157.062500, Update Interval: 300.595123
+[2025.10.24-10.55.29:700][634]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.24-10.55.37:222][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 166499.640625
+[2025.10.24-10.55.38:212][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-10.55.38:212][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 166500.296875, Update Interval: 355.918457
+[2025.10.24-11.02.14:624][848]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 166895.046875
+[2025.10.24-11.02.15:628][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.02.15:628][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 166895.703125, Update Interval: 349.864807
+[2025.10.24-11.08.55:050][ 49]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 167293.531250
+[2025.10.24-11.08.56:051][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.08.56:051][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 167294.203125, Update Interval: 349.176300
+[2025.10.24-11.15.37:448][257]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 167694.359375
+[2025.10.24-11.15.38:457][259]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.15.38:457][259]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 167695.015625, Update Interval: 310.816376
+[2025.10.24-11.21.23:165][293]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168038.421875
+[2025.10.24-11.21.24:170][296]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.21.24:170][296]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168039.093750, Update Interval: 309.124420
+[2025.10.24-11.27.22:891][372]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168397.046875
+[2025.10.24-11.27.23:905][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.27.23:905][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168397.703125, Update Interval: 323.132416
+[2025.10.24-11.33.43:926][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 168774.500000
+[2025.10.24-11.33.44:158][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.33.44:158][  1]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 168774.671875, Update Interval: 329.228180
+[2025.10.24-11.35.53:336][170]Cmd: DELETE
+[2025.10.24-11.35.53:336][170]Cmd: ACTOR DELETE
+[2025.10.24-11.35.53:468][170]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.24-11.35.53:642][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2025.10.24-11.35.53:646][170]LogEditorActor: Deleted 1 Actors (0.310 secs)
+[2025.10.24-11.36.21:299][857]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.36.21:484][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-11.36.23:925][857]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.36.23:925][857]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapF6D30579421165DA6CD8D8B7B9E97BD6.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.36.23:970][857]LogFileHelpers: All files are already saved.
+[2025.10.24-11.36.23:971][857]LogFileHelpers: Saving map 'ParkourMap' took 2.578
+[2025.10.24-11.36.23:990][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.69 sec (total: 2:07 min)
+[2025.10.24-11.36.24:126][857]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.36.24:126][857]LogContentValidation: Enabled validators:
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.36.24:126][857]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.36.24:129][857]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.36.45:602][365]Cmd: TRANSACTION UNDO
+[2025.10.24-11.36.45:602][365]LogEditorTransaction: Undo Move Elements
+[2025.10.24-11.38.08:934][345]Cmd: DELETE
+[2025.10.24-11.38.08:934][345]Cmd: ACTOR DELETE
+[2025.10.24-11.38.09:053][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.24-11.38.09:054][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.24-11.38.09:129][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.24-11.38.09:131][345]LogEditorActor: Deleted 2 Actors (0.197 secs)
+[2025.10.24-11.38.54:411][410]Cmd: DELETE
+[2025.10.24-11.38.54:411][410]Cmd: ACTOR DELETE
+[2025.10.24-11.38.54:529][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.24-11.38.54:531][410]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.24-11.38.54:609][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.24-11.38.54:612][410]LogEditorActor: Deleted 2 Actors (0.200 secs)
+[2025.10.24-11.40.00:856][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.40.01:052][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-11.40.03:430][971]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.40.03:431][971]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapA1473C654B6E644609D09EBEA4FFF9A3.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.40.03:474][971]LogFileHelpers: All files are already saved.
+[2025.10.24-11.40.03:474][971]LogFileHelpers: Saving map 'ParkourMap' took 2.529
+[2025.10.24-11.40.03:495][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 2:10 min)
+[2025.10.24-11.40.03:605][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.40.03:605][971]LogContentValidation: Enabled validators:
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.40.03:605][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.40.03:609][971]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.40.06:578][ 45]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 169134.250000
+[2025.10.24-11.40.06:927][ 53]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.40.06:927][ 53]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 169134.546875, Update Interval: 355.495483
+[2025.10.24-11.40.07:419][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.40.07:612][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.24-11.40.09:991][ 66]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.40.09:991][ 66]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapEB03FD804C9F840B9B71E7842FD6D00F.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.40.10:039][ 66]LogFileHelpers: All files are already saved.
+[2025.10.24-11.40.10:039][ 66]LogFileHelpers: Saving map 'ParkourMap' took 2.539
+[2025.10.24-11.40.10:066][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 2:12 min)
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: Enabled validators:
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.40.10:173][ 66]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.40.10:178][ 66]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.41.34:695][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.41.34:909][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.24-11.41.37:298][917]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.41.37:298][917]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE9473E7A4909EAB0A5F3499122162F8B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.41.37:340][917]LogFileHelpers: All files are already saved.
+[2025.10.24-11.41.37:340][917]LogFileHelpers: Saving map 'ParkourMap' took 2.542
+[2025.10.24-11.41.37:347][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.65 sec (total: 2:15 min)
+[2025.10.24-11.41.37:442][917]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.41.37:442][917]LogContentValidation: Enabled validators:
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.41.37:442][917]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.41.37:444][917]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.42.19:552][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.42.19:702][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.24-11.42.22:066][935]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.42.22:066][935]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap2FF6C7CB46D32F4DC11D35B9AAD49B21.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.42.22:108][935]LogFileHelpers: All files are already saved.
+[2025.10.24-11.42.22:108][935]LogFileHelpers: Saving map 'ParkourMap' took 2.515
+[2025.10.24-11.42.22:128][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.57 sec (total: 2:17 min)
+[2025.10.24-11.42.22:232][935]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.42.22:232][935]LogContentValidation: Enabled validators:
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.42.22:232][935]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.42.22:235][935]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.42.26:558][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.42.26:738][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.24-11.42.29:087][ 39]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.42.29:088][ 39]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap7DF9DBC54ECB3DD58B7342945274EE37.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.42.29:128][ 39]LogFileHelpers: All files are already saved.
+[2025.10.24-11.42.29:128][ 39]LogFileHelpers: Saving map 'ParkourMap' took 2.501
+[2025.10.24-11.42.29:137][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.57 sec (total: 2:20 min)
+[2025.10.24-11.42.29:225][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.42.29:225][ 39]LogContentValidation: Enabled validators:
+[2025.10.24-11.42.29:225][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.42.29:225][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.42.29:226][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.42.29:226][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.42.29:226][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.42.29:226][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.42.29:229][ 39]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.42.40:341][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.42.40:522][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.24-11.42.42:884][305]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.42.42:884][305]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap01A79A074BDD1CE6B6915F81C9AB05D5.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.42.42:926][305]LogFileHelpers: All files are already saved.
+[2025.10.24-11.42.42:926][305]LogFileHelpers: Saving map 'ParkourMap' took 2.512
+[2025.10.24-11.42.42:944][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.60 sec (total: 2:23 min)
+[2025.10.24-11.42.43:062][305]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.42.43:062][305]LogContentValidation: Enabled validators:
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.42.43:062][305]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.42.43:067][305]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.43.17:126][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.43.17:309][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-11.43.19:679][110]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.43.19:679][110]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap397FA6A24FD4947080F8DABAFC01C3D7.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.43.19:721][110]LogFileHelpers: All files are already saved.
+[2025.10.24-11.43.19:721][110]LogFileHelpers: Saving map 'ParkourMap' took 2.524
+[2025.10.24-11.43.19:728][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.60 sec (total: 2:25 min)
+[2025.10.24-11.43.19:826][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.43.19:827][110]LogContentValidation: Enabled validators:
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.43.19:827][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.43.19:830][110]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.45.06:753][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.45.06:930][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.24-11.45.09:350][645]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.45.09:350][645]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap092DD1A04D76222BB1B98281845C0AF8.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.45.09:393][645]LogFileHelpers: All files are already saved.
+[2025.10.24-11.45.09:393][645]LogFileHelpers: Saving map 'ParkourMap' took 2.577
+[2025.10.24-11.45.09:416][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.66 sec (total: 2:28 min)
+[2025.10.24-11.45.09:517][645]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.45.09:517][645]LogContentValidation: Enabled validators:
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.45.09:517][645]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.45.09:522][645]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.45.23:676][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.45.23:858][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.24-11.45.26:297][991]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.45.26:298][991]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap0EC165A1435CDD926B9E03A0F4D92B48.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.45.26:675][991]LogFileHelpers: All files are already saved.
+[2025.10.24-11.45.26:675][991]LogFileHelpers: Saving map 'ParkourMap' took 2.932
+[2025.10.24-11.45.26:680][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.00 sec (total: 2:31 min)
+[2025.10.24-11.45.26:781][991]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.45.26:781][991]LogContentValidation: Enabled validators:
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.45.26:781][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.45.26:784][991]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.46.36:975][662]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 169498.640625
+[2025.10.24-11.46.37:206][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.46.37:206][669]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 169498.812500, Update Interval: 314.994965
+[2025.10.24-11.48.38:269][580]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.48.38:444][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.24-11.48.40:846][580]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.48.40:846][580]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap7E3A659D4B691FCACCF47B81A7023AA9.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.48.40:891][580]LogFileHelpers: All files are already saved.
+[2025.10.24-11.48.40:891][580]LogFileHelpers: Saving map 'ParkourMap' took 2.565
+[2025.10.24-11.48.40:912][580]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 2:33 min)
+[2025.10.24-11.48.41:043][580]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.48.41:043][580]LogContentValidation: Enabled validators:
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.48.41:043][580]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.48.41:047][580]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.49.00:439][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.49.00:607][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.24-11.49.02:985][ 41]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.49.02:985][ 41]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE85E14FA4C717B66E0574D91DD317922.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.49.03:029][ 41]LogFileHelpers: All files are already saved.
+[2025.10.24-11.49.03:029][ 41]LogFileHelpers: Saving map 'ParkourMap' took 2.538
+[2025.10.24-11.49.03:047][ 41]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.60 sec (total: 2:36 min)
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: Enabled validators:
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.49.03:163][ 41]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.49.03:167][ 41]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.49.19:571][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.49.19:735][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.24-11.49.22:128][396]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.49.22:128][396]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap4A6509494094F30820B52D9A739CD9CB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.49.22:172][396]LogFileHelpers: All files are already saved.
+[2025.10.24-11.49.22:172][396]LogFileHelpers: Saving map 'ParkourMap' took 2.551
+[2025.10.24-11.49.22:192][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.62 sec (total: 2:39 min)
+[2025.10.24-11.49.22:303][396]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.49.22:303][396]LogContentValidation: Enabled validators:
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.49.22:303][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.49.22:307][396]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.50.22:453][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.50.22:645][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.24-11.50.25:032][842]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.50.25:032][842]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap715DF9884C4548843F9D6EA7FF8E2CF7.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.50.25:074][842]LogFileHelpers: All files are already saved.
+[2025.10.24-11.50.25:074][842]LogFileHelpers: Saving map 'ParkourMap' took 2.549
+[2025.10.24-11.50.25:094][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 2:41 min)
+[2025.10.24-11.50.25:212][842]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.50.25:212][842]LogContentValidation: Enabled validators:
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.50.25:212][842]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.50.25:216][842]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.50.25:829][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.50.26:031][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.24-11.50.28:401][856]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.50.28:401][856]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapC6C6333348A528E098A02DBBA029BD2A.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.50.28:444][856]LogFileHelpers: All files are already saved.
+[2025.10.24-11.50.28:444][856]LogFileHelpers: Saving map 'ParkourMap' took 2.530
+[2025.10.24-11.50.28:453][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.62 sec (total: 2:44 min)
+[2025.10.24-11.50.28:539][856]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.50.28:539][856]LogContentValidation: Enabled validators:
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.50.28:539][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.50.28:542][856]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.50.30:514][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.50.30:699][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.24-11.50.33:054][902]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.50.33:054][902]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapBB680BD94606E0005BFD3EA8B1E03ABB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.50.33:097][902]LogFileHelpers: All files are already saved.
+[2025.10.24-11.50.33:097][902]LogFileHelpers: Saving map 'ParkourMap' took 2.517
+[2025.10.24-11.50.33:117][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.60 sec (total: 2:47 min)
+[2025.10.24-11.50.33:225][902]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.50.33:225][902]LogContentValidation: Enabled validators:
+[2025.10.24-11.50.33:225][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.50.33:225][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.50.33:225][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.50.33:225][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.50.33:225][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.50.33:226][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.50.33:229][902]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.51.08:039][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.51.08:227][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.24-11.51.10:652][524]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.51.10:652][524]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapFA8E215149777E045E8B17B3A4D3C53F.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.51.10:796][524]LogFileHelpers: All files are already saved.
+[2025.10.24-11.51.10:796][524]LogFileHelpers: Saving map 'ParkourMap' took 2.687
+[2025.10.24-11.51.10:817][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.77 sec (total: 2:49 min)
+[2025.10.24-11.51.10:945][524]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.51.10:945][524]LogContentValidation: Enabled validators:
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.51.10:945][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.51.10:949][524]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.52.01:684][732]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.52.01:871][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.10.24-11.52.04:249][732]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.52.04:250][732]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapD1C4FB334E58996ADBFC648882EA3C65.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.52.04:291][732]LogFileHelpers: All files are already saved.
+[2025.10.24-11.52.04:291][732]LogFileHelpers: Saving map 'ParkourMap' took 2.540
+[2025.10.24-11.52.04:298][732]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.61 sec (total: 2:52 min)
+[2025.10.24-11.52.04:394][732]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.52.04:394][732]LogContentValidation: Enabled validators:
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.52.04:394][732]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.52.04:398][732]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.52.28:808][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 169825.750000
+[2025.10.24-11.52.29:111][303]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.52.29:111][303]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 169825.968750, Update Interval: 343.366180
+[2025.10.24-11.53.02:531][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.53.02:745][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.10.24-11.53.05:153][ 99]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.53.05:154][ 99]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap115F8FEF4112AB08653B2B9FF36B1D19.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.53.05:198][ 99]LogFileHelpers: All files are already saved.
+[2025.10.24-11.53.05:198][ 99]LogFileHelpers: Saving map 'ParkourMap' took 2.584
+[2025.10.24-11.53.05:204][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.67 sec (total: 2:55 min)
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: Enabled validators:
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.53.05:345][ 99]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.53.05:349][ 99]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.53.15:541][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.53.15:729][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.24-11.53.18:137][350]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.53.18:137][350]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapAB6C5A1E427B008238FCF090ECEFAC82.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.53.18:181][350]LogFileHelpers: All files are already saved.
+[2025.10.24-11.53.18:181][350]LogFileHelpers: Saving map 'ParkourMap' took 2.579
+[2025.10.24-11.53.18:189][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.64 sec (total: 2:57 min)
+[2025.10.24-11.53.18:293][350]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.53.18:293][350]LogContentValidation: Enabled validators:
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.53.18:293][350]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.53.18:297][350]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.54.57:294][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.54.57:496][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-11.54.59:922][616]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.54.59:922][616]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapDAA0B3AB4460EAB409E047B4360C4CED.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.54.59:967][616]LogFileHelpers: All files are already saved.
+[2025.10.24-11.54.59:967][616]LogFileHelpers: Saving map 'ParkourMap' took 2.607
+[2025.10.24-11.54.59:993][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.69 sec (total: 3:00 min)
+[2025.10.24-11.55.00:113][616]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.55.00:113][616]LogContentValidation: Enabled validators:
+[2025.10.24-11.55.00:113][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.55.00:113][616]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.55.00:114][616]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.55.00:114][616]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.55.00:114][616]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.55.00:114][616]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.55.00:117][616]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.55.29:871][344]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.24-11.55.34:549][453]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.55.34:751][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.10.24-11.55.37:154][453]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.55.37:155][453]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap38854E28439A315EF837DFB17AF93B7A.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.55.37:200][453]LogFileHelpers: All files are already saved.
+[2025.10.24-11.55.37:200][453]LogFileHelpers: Saving map 'ParkourMap' took 2.576
+[2025.10.24-11.55.37:205][453]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.65 sec (total: 3:03 min)
+[2025.10.24-11.55.37:315][453]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.55.37:315][453]LogContentValidation: Enabled validators:
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.55.37:315][453]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.55.37:318][453]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.55.51:479][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.55.51:674][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-11.55.54:094][778]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.55.54:095][778]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapBCF8B9884485D1D4D1896AA698216A95.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.55.54:240][778]LogFileHelpers: All files are already saved.
+[2025.10.24-11.55.54:240][778]LogFileHelpers: Saving map 'ParkourMap' took 2.698
+[2025.10.24-11.55.54:263][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.78 sec (total: 3:05 min)
+[2025.10.24-11.55.54:365][778]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.55.54:366][778]LogContentValidation: Enabled validators:
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.55.54:366][778]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.55.54:369][778]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.57.16:273][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.57.16:500][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.10.24-11.57.18:936][742]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.57.18:936][742]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapB0FDC190434D806A6D4339A328920A25.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.57.18:981][742]LogFileHelpers: All files are already saved.
+[2025.10.24-11.57.18:981][742]LogFileHelpers: Saving map 'ParkourMap' took 2.623
+[2025.10.24-11.57.19:008][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.73 sec (total: 3:08 min)
+[2025.10.24-11.57.19:117][742]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.57.19:117][742]LogContentValidation: Enabled validators:
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.57.19:117][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.57.19:121][742]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.58.08:401][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.58.08:606][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.24-11.58.11:059][937]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.58.11:059][937]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCBA1C19A4AD8B99D7B6C9B83A56D54C5.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.58.11:103][937]LogFileHelpers: All files are already saved.
+[2025.10.24-11.58.11:103][937]LogFileHelpers: Saving map 'ParkourMap' took 2.641
+[2025.10.24-11.58.11:111][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.70 sec (total: 3:11 min)
+[2025.10.24-11.58.11:218][937]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.58.11:218][937]LogContentValidation: Enabled validators:
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.58.11:218][937]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.58.11:221][937]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.58.24:581][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.58.24:796][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.24-11.58.27:213][275]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.58.27:213][275]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap72B54B2A4658EDFF48D464B98B32F248.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.58.27:257][275]LogFileHelpers: All files are already saved.
+[2025.10.24-11.58.27:257][275]LogFileHelpers: Saving map 'ParkourMap' took 2.603
+[2025.10.24-11.58.27:279][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.69 sec (total: 3:14 min)
+[2025.10.24-11.58.27:385][275]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.58.27:385][275]LogContentValidation: Enabled validators:
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.58.27:385][275]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.58.27:388][275]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.58.44:261][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.58.44:478][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.24-11.58.46:895][695]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.58.46:896][695]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapE78A7F5D4B471F7D7E11B4AF6F6A1CE4.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.58.46:946][695]LogFileHelpers: All files are already saved.
+[2025.10.24-11.58.46:946][695]LogFileHelpers: Saving map 'ParkourMap' took 2.610
+[2025.10.24-11.58.46:952][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.69 sec (total: 3:16 min)
+[2025.10.24-11.58.47:052][695]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.58.47:052][695]LogContentValidation: Enabled validators:
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.58.47:052][695]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.58.47:055][695]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.59.01:926][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.24-11.59.02:151][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.24-11.59.04:575][ 70]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.24-11.59.04:575][ 70]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapB2FDBD4E436E3156F31122BD54057834.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.24-11.59.04:620][ 70]LogFileHelpers: All files are already saved.
+[2025.10.24-11.59.04:620][ 70]LogFileHelpers: Saving map 'ParkourMap' took 2.613
+[2025.10.24-11.59.04:630][ 70]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.70 sec (total: 3:19 min)
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: Enabled validators:
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.24-11.59.04:741][ 70]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.24-11.59.04:744][ 70]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.24-11.59.04:822][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 170196.781250
+[2025.10.24-11.59.05:294][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.24-11.59.05:294][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 170197.203125, Update Interval: 338.815887
