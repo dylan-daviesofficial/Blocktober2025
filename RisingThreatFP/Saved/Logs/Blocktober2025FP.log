@@ -3702,3 +3702,1221 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.27-19.54.38:043][282]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.27-19.54.38:043][282]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.27-19.54.38:046][282]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.27-19.56.11:259][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10484.796875
+[2025.10.27-19.56.12:252][591]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-19.56.12:252][591]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10485.455078, Update Interval: 355.914795
+[2025.10.27-20.01.59:204][167]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.27-20.01.59:355][167]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.27-20.01.59:373][167]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-20.01.59:374][167]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-20.01.59:709][168]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-20.01.59:717][168]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=58.49
+[2025.10.27-20.01.59:717][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-20.01.59:726][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-20.02.05:190][171]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.27-21.06.47:731][172]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.47:731][172]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-21.06.48:477][172]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.27-21.06.48:864][172]LogHttp: Warning: 000008B94176A100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.48:864][172]LogHttp: Warning: 000008B94176A100: libcurl info message cache 0 (Too old connection (3920 seconds idle), disconnect it)
+[2025.10.27-21.06.48:864][172]LogHttp: Warning: 000008B94176A100: libcurl info message cache 1 (Connection 2 seems to be dead)
+[2025.10.27-21.06.48:864][172]LogHttp: Warning: 000008B94176A100: libcurl info message cache 2 (Closing connection)
+[2025.10.27-21.06.48:864][172]LogHttp: Warning: 000008B94176A100: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.27-21.06.48:864][173]LogHttp: Warning: 000008B94176A100: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.27-21.06.48:864][173]LogHttp: Warning: 000008B94176A100: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.06.48:864][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 0 (Too old connection (3917 seconds idle), disconnect it)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 1 (Connection 35 seems to be dead)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 2 (Closing connection)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.06.48:865][173]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 0 (Found bundle for host: 0x8b2ad880840 [serially])
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 2 (Closing connection)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 1 (Closing connection)
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.48:924][174]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.27-21.06.49:201][174]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.49:204][174]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1391.38
+[2025.10.27-21.06.49:204][174]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-21.06.49:207][174]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-21.06.49:666][175]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.49:666][175]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-21.06.50:009][177]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.50:009][177]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 3 (Closing connection)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 3 (Found bundle for host: 0x8b2ad880600 [serially])
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.50:342][178]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.27-21.06.51:674][181]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.51:674][181]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 6 (Found bundle for host: 0x8b2ad8807e0 [serially])
+[2025.10.27-21.06.52:006][182]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 7 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.52:006][183]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 8 (Closing connection)
+[2025.10.27-21.06.52:006][183]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.52:006][183]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.27-21.06.52:006][183]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.10.27-21.06.53:007][185]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.53:339][186]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.53:339][186]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.53:339][187]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.53:339][187]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 7 (Closing connection)
+[2025.10.27-21.06.53:339][187]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.54:666][190]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.27-21.06.54:673][190]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.55:006][191]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.55:006][191]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.55:006][191]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.55:006][191]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 9 (Closing connection)
+[2025.10.27-21.06.55:006][191]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.55:006][192]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.27-21.06.55:673][193]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.27-21.06.56:006][194]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.56:006][195]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.56:006][195]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.56:006][195]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 1 (Closing connection)
+[2025.10.27-21.06.56:006][195]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.57:340][199]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.57:672][199]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.57:672][199]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.57:672][200]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.57:672][200]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 3 (Closing connection)
+[2025.10.27-21.06.57:672][200]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.59:000][203]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.59:003][203]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9137.44
+[2025.10.27-21.06.59:003][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-21.06.59:006][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-21.06.59:013][203]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.59:333][204]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.59:333][204]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-21.06.59:340][204]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.06.59:340][205]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.06.59:340][205]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.06.59:340][205]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.06.59:340][205]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.06.59:667][205]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.06.59:669][205]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=29.11
+[2025.10.27-21.06.59:670][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-21.06.59:673][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-21.07.00:341][207]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.00:672][208]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.00:672][208]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.00:672][209]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.00:672][209]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 7 (Closing connection)
+[2025.10.27-21.07.00:672][209]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.01:673][211]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.02:006][212]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.02:006][212]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.02:006][212]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.02:006][213]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 9 (Closing connection)
+[2025.10.27-21.07.02:006][213]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.02:006][213]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.27-21.07.02:673][214]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.27-21.07.05:339][222]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.05:339][222]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.05:339][223]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.05:339][223]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 1 (Closing connection)
+[2025.10.27-21.07.05:339][223]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.06:339][225]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.06:673][226]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.06:673][227]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.06:673][227]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.06:673][227]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 3 (Closing connection)
+[2025.10.27-21.07.06:673][227]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.07:673][229]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.08:007][230]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.08:007][230]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.08:007][230]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.08:007][230]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.07.08:007][231]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.09:009][233]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.09:341][234]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.09:341][235]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.09:341][235]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.09:341][235]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 7 (Closing connection)
+[2025.10.27-21.07.09:341][235]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.10:342][237]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.10:675][238]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.10:675][238]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.10:675][239]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.10:675][239]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 9 (Closing connection)
+[2025.10.27-21.07.10:675][239]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.10:675][239]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.27-21.07.11:342][240]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.27-21.07.19:342][264]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.19:343][264]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.19:343][265]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.19:343][265]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 1 (Closing connection)
+[2025.10.27-21.07.19:343][265]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.20:676][268]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.21:008][269]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.21:008][270]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.21:008][270]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 2 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.21:010][270]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 3 (Closing connection)
+[2025.10.27-21.07.21:010][270]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.22:010][272]LogEOSSDK: Warning: LogHttp: Retry 2 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.22:343][273]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.22:343][273]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.22:343][273]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.22:343][274]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 5 (Closing connection)
+[2025.10.27-21.07.22:343][274]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.23:342][276]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14756.814453
+[2025.10.27-21.07.23:677][277]LogEOSSDK: Warning: LogHttp: Retry 3 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.24:010][278]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.24:011][278]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.24:011][279]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 6 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.24:011][279]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 7 (Closing connection)
+[2025.10.27-21.07.24:011][279]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.25:345][282]LogEOSSDK: Warning: LogHttp: Retry 4 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.25:678][283]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.25:678][284]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.25:678][284]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 8 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.25:678][284]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 9 (Closing connection)
+[2025.10.27-21.07.25:678][284]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.27-21.07.25:678][284]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[EOSAuth], OperationName=[TokenGrant], Url=[<Redacted>]
+[2025.10.27-21.07.26:344][285]LogEOSSDK: Warning: LogEOSAnalytics: Unable to get the client auth token. Last result: EOS_NoConnection.
+[2025.10.27-21.07.26:344][285]LogEOSSDK: Warning: LogEOS: SDK Config Product Update Request Failed, Result Code: EOS_NoConnection, Retrying after 50.015869 seconds
+[2025.10.27-21.07.26:679][286]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.27-21.07.26:679][287]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.27-21.07.26:679][287]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.27-21.07.26:679][287]LogEOSSDK: Warning: LogHttp: 000008B3736BA800: libcurl info message cache 1 (Closing connection)
+[2025.10.27-21.07.26:679][287]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.27-21.07.45:582][343]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.27-21.07.45:633][343]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.27-21.07.45:654][343]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.27-21.07.45:676][343]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.07.45:676][343]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-21.07.46:009][344]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-21.07.46:010][344]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=37.24
+[2025.10.27-21.07.46:010][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-21.07.46:013][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-21.08.16:349][435]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14809.810547
+[2025.10.27-21.08.17:349][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.08.17:349][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14810.476562, Update Interval: 302.580048
+[2025.10.27-21.14.12:068][502]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15165.501953
+[2025.10.27-21.14.13:057][505]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.14.13:057][505]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15166.155273, Update Interval: 341.062653
+[2025.10.27-21.20.53:089][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15566.520508
+[2025.10.27-21.20.54:082][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.20.54:082][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15567.180664, Update Interval: 349.956360
+[2025.10.27-21.27.30:752][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15964.171875
+[2025.10.27-21.27.31:752][901]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.27.31:752][901]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15964.837891, Update Interval: 307.985474
+[2025.10.27-21.33.27:718][969]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16321.148438
+[2025.10.27-21.33.28:719][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.33.28:719][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16321.814453, Update Interval: 346.479065
+[2025.10.27-21.40.07:013][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16720.722656
+[2025.10.27-21.40.08:678][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.40.08:679][172]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16722.072266, Update Interval: 307.566162
+[2025.10.27-21.46.04:992][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17078.837891
+[2025.10.27-21.46.05:991][244]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.46.05:991][244]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17079.503906, Update Interval: 347.260956
+[2025.10.27-21.52.46:974][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17481.050781
+[2025.10.27-21.52.47:974][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.52.47:975][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17481.724609, Update Interval: 356.086914
+[2025.10.27-21.59.39:653][685]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17893.800781
+[2025.10.27-21.59.40:653][688]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-21.59.40:653][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17894.466797, Update Interval: 321.482605
+[2025.10.27-22.05.37:990][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18252.197266
+[2025.10.27-22.05.38:985][763]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.05.38:985][763]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18252.863281, Update Interval: 319.904175
+[2025.10.27-22.07.45:634][143]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.27-22.11.58:656][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18632.906250
+[2025.10.27-22.11.59:663][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.11.59:663][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18633.591797, Update Interval: 359.943237
+[2025.10.27-22.18.37:674][ 99]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19031.970703
+[2025.10.27-22.18.38:674][102]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.18.38:674][102]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19032.650391, Update Interval: 358.372131
+[2025.10.27-22.25.20:033][306]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19434.330078
+[2025.10.27-22.25.21:025][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.25.21:025][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19435.000000, Update Interval: 356.313965
+[2025.10.27-22.31.54:718][490]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19829.039062
+[2025.10.27-22.31.55:719][493]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.31.55:719][493]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19829.718750, Update Interval: 350.148621
+[2025.10.27-22.38.23:409][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20217.738281
+[2025.10.27-22.38.24:406][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.27-22.38.24:406][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20218.410156, Update Interval: 318.984955
+[2025.10.27-22.41.52:705][284]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.27-22.41.52:736][284]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-22.41.52:736][284]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-22.41.53:069][285]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-22.41.53:071][285]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=304.82
+[2025.10.27-22.41.53:071][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-22.41.53:073][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.27-22.42.25:166][382]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.27-22.42.25:278][382]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.27-22.42.25:406][382]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.27-22.42.25:406][382]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.27-22.42.25:742][383]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.27-22.42.25:750][383]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=54.39
+[2025.10.27-22.42.25:750][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.27-22.42.25:758][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-11.35.58:175][386]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 0 (Too old connection (46411 seconds idle), disconnect it)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 1 (Connection 83 seems to be dead)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 2 (Closing connection)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 5 (Could not resolve host: api.epicgames.dev)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: 000008B3736B4E00: libcurl info message cache 6 (Closing connection)
+[2025.10.28-11.35.58:175][387]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BD0D3550D-4249-66EC-7A31-65A54E7C1CDA%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-39599718%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-39599718&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.10.28-11.35.58:792][387]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 0 (Too old connection (46458 seconds idle), disconnect it)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 1 (Connection 6 seems to be dead)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 2 (Closing connection)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.10.28-11.35.58:869][388]LogHttp: Warning: 000008B94176D900: libcurl info message cache 5 (Closing connection)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B5674F1E00: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B5674F1E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B5674F1E00: libcurl info message cache 0 (Found bundle for host: 0x8b2ad880930 [serially])
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B5674F1E00: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B5674F1E00: libcurl info message cache 2 (Closing connection)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: invalid HTTP response code received. URL: https://api.epicgames.dev/auth/v1/oauth/token, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 0 (Could not resolve host: api.epicgames.dev)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: 000008B3736B3000: libcurl info message cache 1 (Closing connection)
+[2025.10.28-11.35.58:869][388]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.28-11.35.58:870][388]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.28-11.35.58:873][388]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.28-11.35.58:873][388]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.28-11.35.59:879][391]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.28-11.35.59:879][391]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.28-11.36.00:880][394]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/auth/v1/oauth/token
+[2025.10.28-11.36.00:880][394]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=13483E8F4F501A5282AB2FA3412CF099
+[2025.10.28-11.36.03:873][403]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.28-11.36.07:205][413]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.28-11.36.07:207][413]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8033.43
+[2025.10.28-11.36.07:207][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-11.36.07:210][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-11.36.07:539][414]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.28-11.36.07:539][414]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.28-11.36.09:206][419]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.28-11.36.09:209][419]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1557.09
+[2025.10.28-11.36.09:209][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-11.36.09:211][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-11.36.29:551][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 66904.140625
+[2025.10.28-11.36.30:885][484]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-11.36.30:885][484]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 66905.148438, Update Interval: 314.793549
+[2025.10.28-11.42.39:753][588]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 67274.695312
+[2025.10.28-11.42.40:759][590]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-11.42.40:759][590]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 67275.359375, Update Interval: 340.372314
+[2025.10.28-11.49.01:802][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 67657.156250
+[2025.10.28-11.49.02:808][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-11.49.02:808][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 67657.820312, Update Interval: 331.500610
+[2025.10.28-11.55.10:189][838]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68025.960938
+[2025.10.28-11.55.11:201][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-11.55.11:201][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68026.632812, Update Interval: 300.545685
+[2025.10.28-12.01.04:911][902]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68380.937500
+[2025.10.28-12.01.05:913][905]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.01.05:913][905]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68381.601562, Update Interval: 346.861786
+[2025.10.28-12.01.14:663][932]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-12.07.40:652][ 89]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 68777.398438
+[2025.10.28-12.07.41:657][ 92]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.07.41:657][ 92]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 68778.078125, Update Interval: 312.098145
+[2025.10.28-12.13.40:735][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69137.929688
+[2025.10.28-12.13.41:734][172]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.13.41:734][173]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69138.601562, Update Interval: 353.525208
+[2025.10.28-12.20.28:102][392]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69545.726562
+[2025.10.28-12.20.29:101][394]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.20.29:101][394]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69546.390625, Update Interval: 303.065277
+[2025.10.28-12.26.27:821][470]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 69905.835938
+[2025.10.28-12.26.28:814][473]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.26.28:814][473]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 69906.500000, Update Interval: 311.629395
+[2025.10.28-12.32.15:867][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70254.320312
+[2025.10.28-12.32.16:857][517]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.32.16:857][517]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70254.984375, Update Interval: 344.834747
+[2025.10.28-12.38.52:912][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 70651.703125
+[2025.10.28-12.38.53:903][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.38.53:903][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 70652.367188, Update Interval: 354.889374
+[2025.10.28-12.45.42:626][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71062.296875
+[2025.10.28-12.45.43:629][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.45.43:629][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71062.968750, Update Interval: 301.875061
+[2025.10.28-12.51.42:340][ 13]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71422.734375
+[2025.10.28-12.51.43:336][ 16]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.51.43:336][ 16]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71423.406250, Update Interval: 353.186432
+[2025.10.28-12.58.24:396][219]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 71825.601562
+[2025.10.28-12.58.25:393][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-12.58.25:393][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 71826.257812, Update Interval: 350.183411
+[2025.10.28-13.01.14:663][730]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-13.05.13:792][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72235.210938
+[2025.10.28-13.05.14:781][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-13.05.14:781][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72235.867188, Update Interval: 333.589905
+[2025.10.28-13.11.43:839][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 72625.445312
+[2025.10.28-13.11.44:863][620]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-13.11.44:863][620]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 72626.140625, Update Interval: 341.309845
+[2025.10.28-13.18.00:890][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 73002.757812
+[2025.10.28-13.18.01:891][751]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-13.18.01:891][751]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 73003.429688, Update Interval: 351.624512
+[2025.10.28-13.18.39:761][865]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=MSI G271 (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.28-13.18.39:886][865]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Realtek Digital Output (Realtek(R) Audio), InstanceID=1
+[2025.10.28-13.18.39:891][865]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.28-13.18.39:891][865]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.28-13.18.40:221][866]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.28-13.18.40:224][866]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{13bea90d-1338-4e19-960d-a45edde528ee}, Name=Realtek Digital Output (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=220.74
+[2025.10.28-13.18.40:224][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-13.18.40:229][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-14.51.48:626][873]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=PHL27E1N1100A (NVIDIA High Definition Audio), InstanceID=1
+[2025.10.28-14.51.48:949][873]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.28-14.51.48:949][873]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.28-14.51.53:950][888]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.10.28-14.51.57:950][900]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.28-14.51.57:951][900]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=8909.62
+[2025.10.28-14.51.57:951][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-14.51.57:954][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-14.51.58:283][901]LogAudioMixer: Display: StartRunningNullDevice() called, InstanceID=1
+[2025.10.28-14.51.58:283][901]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=27000
+[2025.10.28-14.51.58:616][902]LogAudioMixer: Display: StopRunningNullDevice() called, InstanceID=1
+[2025.10.28-14.51.58:619][902]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{587180b0-e32c-41bd-888f-894e801dd377}, Name=PHL27E1N1100A (NVIDIA High Definition Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=28.01
+[2025.10.28-14.51.58:619][902]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.10.28-14.51.58:621][902]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.10.28-14.52.19:627][965]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 78661.781250
+[2025.10.28-14.52.20:626][968]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-14.52.20:626][968]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 78662.453125, Update Interval: 338.859833
+[2025.10.28-14.58.36:669][ 96]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79039.484375
+[2025.10.28-14.58.37:670][ 99]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-14.58.37:671][ 99]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79040.164062, Update Interval: 354.697113
+[2025.10.28-15.05.06:716][266]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79429.968750
+[2025.10.28-15.05.07:716][269]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.05.07:716][269]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79430.640625, Update Interval: 304.310425
+[2025.10.28-15.10.47:450][288]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 79771.203125
+[2025.10.28-15.10.48:436][291]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.10.48:436][291]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 79771.867188, Update Interval: 309.540100
+[2025.10.28-15.16.41:821][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80126.062500
+[2025.10.28-15.16.42:820][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.16.42:820][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80126.726562, Update Interval: 359.064301
+[2025.10.28-15.23.13:894][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80518.656250
+[2025.10.28-15.23.14:887][530]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.23.14:887][530]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80519.320312, Update Interval: 355.576050
+[2025.10.28-15.29.59:614][744]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 80924.664062
+[2025.10.28-15.30.00:617][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.30.00:618][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 80925.328125, Update Interval: 319.548950
+[2025.10.28-15.34.16:897][516]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-15.36.05:313][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81290.960938
+[2025.10.28-15.36.06:325][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.36.06:325][845]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81291.625000, Update Interval: 356.013672
+[2025.10.28-15.42.35:017][ 10]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 81681.234375
+[2025.10.28-15.42.36:017][ 13]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.42.36:017][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 81681.914062, Update Interval: 352.329468
+[2025.10.28-15.49.04:425][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82071.320312
+[2025.10.28-15.49.05:432][181]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.49.05:432][181]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82071.992188, Update Interval: 348.634308
+[2025.10.28-15.53.24:585][ 42]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.28-15.55.32:001][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82459.476562
+[2025.10.28-15.55.32:345][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.55.32:345][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82459.773438, Update Interval: 306.011536
+[2025.10.28-15.55.59:792][278]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-15.56.00:546][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2025.10.28-15.56.03:697][278]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-15.56.03:697][278]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap2FD5DC1A4D742A04FCF734BFE1A4A63E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-15.56.03:751][278]LogFileHelpers: All files are already saved.
+[2025.10.28-15.56.03:751][278]LogFileHelpers: Saving map 'ParkourMap' took 3.873
+[2025.10.28-15.56.03:795][278]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.00 sec (total: 2:44 min)
+[2025.10.28-15.56.03:934][278]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-15.56.03:934][278]LogContentValidation: Enabled validators:
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-15.56.03:934][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-15.56.03:939][278]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-15.56.55:763][457]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-15.56.56:266][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.28-15.56.59:401][457]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-15.56.59:401][457]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapD0FF52554F46A5E61DE8F6BCC8F731E1.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-15.56.59:458][457]LogFileHelpers: All files are already saved.
+[2025.10.28-15.56.59:458][457]LogFileHelpers: Saving map 'ParkourMap' took 3.608
+[2025.10.28-15.56.59:496][457]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.73 sec (total: 2:48 min)
+[2025.10.28-15.56.59:602][457]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-15.56.59:602][457]LogContentValidation: Enabled validators:
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-15.56.59:602][457]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-15.56.59:605][457]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-15.59.43:590][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-15.59.44:124][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2025.10.28-15.59.47:288][742]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-15.59.47:289][742]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap48ADAD94412B980CC1B7C9B33B471F78.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-15.59.47:735][742]LogFileHelpers: All files are already saved.
+[2025.10.28-15.59.47:735][742]LogFileHelpers: Saving map 'ParkourMap' took 4.017
+[2025.10.28-15.59.47:780][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.18 sec (total: 2:52 min)
+[2025.10.28-15.59.47:903][742]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-15.59.47:903][742]LogContentValidation: Enabled validators:
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-15.59.47:903][742]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-15.59.47:907][742]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.00.22:327][508]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.28-16.00.51:237][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.00.51:713][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.10.28-16.00.54:840][135]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.00.54:841][135]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCA4F98B74626A04EF298AC9CC41D5AB5.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.00.54:900][135]LogFileHelpers: All files are already saved.
+[2025.10.28-16.00.54:900][135]LogFileHelpers: Saving map 'ParkourMap' took 3.571
+[2025.10.28-16.00.54:934][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.69 sec (total: 2:56 min)
+[2025.10.28-16.00.55:073][135]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.00.55:073][135]LogContentValidation: Enabled validators:
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.00.55:073][135]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.00.55:079][135]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.01.24:740][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 82808.656250
+[2025.10.28-16.01.25:740][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.01.25:740][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 82809.320312, Update Interval: 308.080688
+[2025.10.28-16.05.58:697][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.05.58:698][553]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.05.59:360][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.662307s)
+[2025.10.28-16.05.59:360][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.662416s)
+[2025.10.28-16.05.59:714][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.10.28-16.05.59:716][553]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.05.59:722][553]LogPlayLevel: PIE: World Init took: (0.005740s)
+[2025.10.28-16.05.59:724][553]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.28-16.05.59:724][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.05.59:724][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.05.59:724][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.05.59:725][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.05.59:725][553]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.05.59:725][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.05.59:725][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.05.59:725][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.05.59:725][553]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.05.59:725][553]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.05.59:725][553]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.05.59:728][553]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.05.59:762][553]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.05.59:763][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.05.59:763][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.05.59:763][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.05.59:764][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.28-16.05.59:764][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.28-16.05.59:766][553]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.28-16.05.59:766][553]LogAudio: Display: Audio Device (ID: 11) registered with world 'ParkourMap'.
+[2025.10.28-16.05.59:766][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.28-16.05.59:766][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.28-16.05.59:766][553]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.28-16.05.59:777][553]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.06.00:171][553]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.06.00
+[2025.10.28-16.06.00:182][553]LogWorld: Bringing up level for play took: 0.404344
+[2025.10.28-16.06.00:185][553]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2025.10.28-16.06.00:209][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.06.00:210][553]PIE: Server logged in
+[2025.10.28-16.06.00:212][553]PIE: Play in editor total start time 1.515 seconds.
+[2025.10.28-16.06.00:378][553]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.06.00:378][553]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.06.00:378][553]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.06.30:702][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.06.30:702][343]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.06.30:715][343]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.06.30:811][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.06.30:821][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.06.30:839][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.06.31:310][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.06.31:318][343]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.28-16.06.31:318][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.28-16.06.31:320][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.10.28-16.06.31:406][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2025.10.28-16.06.31:503][344]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.10.28-16.06.49:112][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.06.49:112][726]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.06.49:748][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.635862s)
+[2025.10.28-16.06.49:748][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.635896s)
+[2025.10.28-16.06.50:082][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.28-16.06.50:084][726]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.06.50:088][726]LogPlayLevel: PIE: World Init took: (0.003727s)
+[2025.10.28-16.06.50:091][726]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.06.50:091][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.06.50:091][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.06.50:091][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.06.50:091][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.06.50:091][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.06.50:093][726]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.06.50:124][726]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.06.50:124][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.06.50:124][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.06.50:124][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.06.50:125][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.28-16.06.50:125][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.28-16.06.50:128][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.28-16.06.50:128][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.28-16.06.50:128][726]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.28-16.06.50:128][726]LogAudio: Display: Audio Device (ID: 12) registered with world 'ParkourMap'.
+[2025.10.28-16.06.50:128][726]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.28-16.06.50:132][726]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.06.50:477][726]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.06.50
+[2025.10.28-16.06.50:485][726]LogWorld: Bringing up level for play took: 0.351965
+[2025.10.28-16.06.50:488][726]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2025.10.28-16.06.50:503][726]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.06.50:503][726]PIE: Server logged in
+[2025.10.28-16.06.50:506][726]PIE: Play in editor total start time 1.395 seconds.
+[2025.10.28-16.06.50:632][726]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.06.50:632][726]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.06.50:632][726]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.07.10:219][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.07.10:219][230]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.07.10:225][230]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.07.10:311][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.07.10:320][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.07.10:339][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.07.10:795][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.07.10:820][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.28-16.07.10:820][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.28-16.07.10:822][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.10.28-16.07.10:903][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2025.10.28-16.07.11:000][231]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.10.28-16.07.12:703][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83155.187500
+[2025.10.28-16.07.13:037][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.07.13:037][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83155.468750, Update Interval: 306.097595
+[2025.10.28-16.07.34:334][736]Cmd: DELETE
+[2025.10.28-16.07.34:334][736]Cmd: ACTOR DELETE
+[2025.10.28-16.07.34:516][736]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.07.34:848][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.10.28-16.07.34:851][736]LogEditorActor: Deleted 1 Actors (0.516 secs)
+[2025.10.28-16.07.38:411][819]Cmd: DELETE
+[2025.10.28-16.07.38:411][819]Cmd: ACTOR DELETE
+[2025.10.28-16.07.38:585][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.07.38:942][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.28-16.07.38:945][819]LogEditorActor: Deleted 1 Actors (0.534 secs)
+[2025.10.28-16.07.39:931][838]Cmd: DELETE
+[2025.10.28-16.07.39:931][838]Cmd: ACTOR DELETE
+[2025.10.28-16.07.40:109][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.07.40:487][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.28-16.07.40:489][838]LogEditorActor: Deleted 1 Actors (0.557 secs)
+[2025.10.28-16.08.09:263][459]Cmd: DELETE
+[2025.10.28-16.08.09:263][459]Cmd: ACTOR DELETE
+[2025.10.28-16.08.09:454][459]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.08.09:923][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2025.10.28-16.08.09:928][459]LogEditorActor: Deleted 1 Actors (0.664 secs)
+[2025.10.28-16.09.34:565][197]Cmd: DELETE
+[2025.10.28-16.09.34:565][197]Cmd: ACTOR DELETE
+[2025.10.28-16.09.34:743][197]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.09.35:099][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.10.28-16.09.35:102][197]LogEditorActor: Deleted 1 Actors (0.537 secs)
+[2025.10.28-16.11.05:933][208]Cmd: TRANSACTION UNDO
+[2025.10.28-16.11.05:933][208]LogEditorTransaction: Undo Scale Elements
+[2025.10.28-16.11.25:701][646]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.11.26:165][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-16.11.29:336][646]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.11.29:336][646]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap1E775382443FE3B5984CEAB95E17688E.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.11.29:764][646]LogFileHelpers: All files are already saved.
+[2025.10.28-16.11.29:764][646]LogFileHelpers: Saving map 'ParkourMap' took 4.006
+[2025.10.28-16.11.29:773][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.07 sec (total: 3:00 min)
+[2025.10.28-16.11.29:886][646]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.11.29:886][646]LogContentValidation: Enabled validators:
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.11.29:886][646]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.11.29:891][646]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.11.36:554][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.11.37:031][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.28-16.11.40:071][800]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.11.40:071][800]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapEFD4C1584BF6B33E3B4EE0821349037F.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.11.40:126][800]LogFileHelpers: All files are already saved.
+[2025.10.28-16.11.40:128][800]LogFileHelpers: Saving map 'ParkourMap' took 3.486
+[2025.10.28-16.11.40:135][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.58 sec (total: 3:03 min)
+[2025.10.28-16.11.40:259][800]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.11.40:259][800]LogContentValidation: Enabled validators:
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.11.40:259][800]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.11.40:263][800]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.12.40:889][ 37]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.12.40:890][ 37]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.12.41:506][ 37]LogPlayLevel: PIE: StaticDuplicateObject took: (0.616574s)
+[2025.10.28-16.12.41:506][ 37]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.616623s)
+[2025.10.28-16.12.41:877][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.28-16.12.41:879][ 37]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.12.41:884][ 37]LogPlayLevel: PIE: World Init took: (0.004204s)
+[2025.10.28-16.12.41:886][ 37]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.12.41:886][ 37]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.12.41:886][ 37]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.12.41:886][ 37]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.12.41:886][ 37]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.12.41:886][ 37]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.12.41:888][ 37]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.28-16.12.41:919][ 37]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.28-16.12.41:923][ 37]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.28-16.12.41:923][ 37]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.28-16.12.41:923][ 37]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.28-16.12.41:923][ 37]LogAudio: Display: Audio Device (ID: 13) registered with world 'ParkourMap'.
+[2025.10.28-16.12.41:923][ 37]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.28-16.12.41:927][ 37]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.12.42:285][ 37]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.12.42
+[2025.10.28-16.12.42:293][ 37]LogWorld: Bringing up level for play took: 0.365670
+[2025.10.28-16.12.42:297][ 37]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2025.10.28-16.12.42:312][ 37]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.12.42:312][ 37]PIE: Server logged in
+[2025.10.28-16.12.42:315][ 37]PIE: Play in editor total start time 1.425 seconds.
+[2025.10.28-16.12.42:445][ 37]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.12.42:445][ 37]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.12.42:445][ 37]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.12.53:505][335]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83489.796875
+[2025.10.28-16.12.53:737][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.12.53:737][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83489.992188, Update Interval: 340.125122
+[2025.10.28-16.13.31:761][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.13.31:761][296]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.13.31:774][296]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.13.31:869][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.13.31:878][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.13.31:896][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.13.32:405][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.13.32:413][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.28-16.13.32:413][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.28-16.13.32:416][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.10.28-16.13.32:503][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2025.10.28-16.13.32:603][297]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2025.10.28-16.16.14:377][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.16.14:897][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2025.10.28-16.16.17:981][831]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.16.17:981][831]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapB94335A64D3DD14EB0D5CFA6FE1C9275.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.16.18:036][831]LogFileHelpers: All files are already saved.
+[2025.10.28-16.16.18:037][831]LogFileHelpers: Saving map 'ParkourMap' took 3.602
+[2025.10.28-16.16.18:045][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.66 sec (total: 3:07 min)
+[2025.10.28-16.16.18:151][831]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.16.18:152][831]LogContentValidation: Enabled validators:
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.16.18:152][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.16.18:156][831]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.16.51:010][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.16.51:493][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.10.28-16.16.54:559][566]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.16.54:560][566]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapB0FBC6C3423E6EAD85DBF5877A2BCCE2.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.16.54:614][566]LogFileHelpers: All files are already saved.
+[2025.10.28-16.16.54:614][566]LogFileHelpers: Saving map 'ParkourMap' took 3.524
+[2025.10.28-16.16.54:623][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.61 sec (total: 3:11 min)
+[2025.10.28-16.16.54:734][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.16.54:734][566]LogContentValidation: Enabled validators:
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.16.54:734][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.16.54:738][566]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.19.11:462][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 83861.656250
+[2025.10.28-16.19.11:671][449]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.19.11:671][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 83861.812500, Update Interval: 326.426575
+[2025.10.28-16.20.35:443][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.20.35:938][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.10.28-16.20.39:035][330]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.20.39:035][330]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapCDAE936446F27CFBF5AAFD91BA7D3DAE.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.20.39:094][330]LogFileHelpers: All files are already saved.
+[2025.10.28-16.20.39:094][330]LogFileHelpers: Saving map 'ParkourMap' took 3.574
+[2025.10.28-16.20.39:103][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.65 sec (total: 3:14 min)
+[2025.10.28-16.20.39:202][330]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.20.39:202][330]LogContentValidation: Enabled validators:
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.20.39:202][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.20.39:207][330]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.24.02:559][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.24.03:065][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.10.28-16.24.06:200][918]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.24.06:201][918]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapF2859AB448B8EE2CEE2F898967146A0B.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.24.06:257][918]LogFileHelpers: All files are already saved.
+[2025.10.28-16.24.06:257][918]LogFileHelpers: Saving map 'ParkourMap' took 3.628
+[2025.10.28-16.24.06:291][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.73 sec (total: 3:18 min)
+[2025.10.28-16.24.06:415][918]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.24.06:415][918]LogContentValidation: Enabled validators:
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.24.06:415][918]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.24.06:418][918]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.24.08:866][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.24.08:866][962]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.24.09:475][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.609439s)
+[2025.10.28-16.24.09:475][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.609474s)
+[2025.10.28-16.24.09:872][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.10.28-16.24.09:875][962]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.24.09:878][962]LogPlayLevel: PIE: World Init took: (0.003867s)
+[2025.10.28-16.24.09:881][962]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.24.09:881][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.24.09:881][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.24.09:881][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.24.09:881][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.24.09:881][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.24.09:883][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.24.09:917][962]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.24.09:917][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.24.09:917][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.24.09:918][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.24.09:918][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.10.28-16.24.09:918][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.10.28-16.24.09:920][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.10.28-16.24.09:920][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.10.28-16.24.09:920][962]LogInit: FAudioDevice initialized with ID 14.
+[2025.10.28-16.24.09:921][962]LogAudio: Display: Audio Device (ID: 14) registered with world 'ParkourMap'.
+[2025.10.28-16.24.09:921][962]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.28-16.24.09:925][962]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.24.10:273][962]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.24.10
+[2025.10.28-16.24.10:281][962]LogWorld: Bringing up level for play took: 0.355289
+[2025.10.28-16.24.10:283][962]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2025.10.28-16.24.10:298][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.24.10:299][962]PIE: Server logged in
+[2025.10.28-16.24.10:301][962]PIE: Play in editor total start time 1.435 seconds.
+[2025.10.28-16.24.10:427][962]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.24.10:427][962]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.24.10:427][962]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.24.56:348][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.24.56:348][168]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.24.56:353][168]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.24.56:441][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.24.56:450][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.24.56:471][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.24.57:071][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.24.57:081][168]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.10.28-16.24.57:081][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.28-16.24.57:083][168]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.10.28-16.24.57:169][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2025.10.28-16.24.57:268][169]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.10.28-16.25.31:846][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84233.742188
+[2025.10.28-16.25.32:057][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.25.32:057][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84233.906250, Update Interval: 359.813232
+[2025.10.28-16.26.09:781][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.26.10:319][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.10.28-16.26.13:420][765]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.26.13:420][765]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap0D0C287D4FA5C840E733799EB032BCDA.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.26.13:477][765]LogFileHelpers: All files are already saved.
+[2025.10.28-16.26.13:477][765]LogFileHelpers: Saving map 'ParkourMap' took 3.611
+[2025.10.28-16.26.13:484][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.70 sec (total: 3:22 min)
+[2025.10.28-16.26.13:600][765]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.26.13:600][765]LogContentValidation: Enabled validators:
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.26.13:600][765]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.26.13:605][765]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.27.28:133][ 51]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_31
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: ================================================
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Total job queries 265, among them cache hits 30 (11.32%), DDC hits 109 (41.13%), Duplicates 7 (2.64%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Tracking 228 distinct input hashes that result in 196 distinct outputs (85.96%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: RAM used: 138.71 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Shaders Compiled: 119
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Jobs assigned 119, completed 119 (100%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Average time worker was idle: 13514.19 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Time job spent in pending queue: average 13.26 s, longest 41.93 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Job execution time: average 16.78 s, max 29.00 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Job life time (pending + execution): average 30.03 s, max 48.80
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Shader code size: average 23.809 KiB, min 1.656 KiB, max 49.172 KiB
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 54.78 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Jobs were issued in 36 batches (only local compilation was used), average 3.31 jobs/batch
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Total thread time: 225.805 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Total thread preprocess time: 3.883 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Percentage time preprocessing: 1.72%
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Effective parallelization: 4.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 2.61 sec, max 4.10 sec, min 1.56 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 2.44 sec, max 2.44 sec, min 2.44 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 78.65% of total time (compiled   68 times, average 2.61 sec, max 4.10 sec, min 1.56 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 1.75% of total time (compiled    5 times, average 0.79 sec, max 0.88 sec, min 0.72 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.28% of total time (compiled    1 times, average 2.90 sec, max 2.90 sec, min 2.90 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 - 1.10% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 - 1.08% of total time (compiled    1 times, average 2.44 sec, max 2.44 sec, min 2.44 sec)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Materials Translated:    139
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Material Translation Only: 0.06 s (33%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: Material Cache Hits: 23 (17%)
+[2025.10.28-16.27.50:818][519]LogShaderCompilers: Display: ================================================
+[2025.10.28-16.30.43:659][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.30.43:660][157]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.30.44:287][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.627972s)
+[2025.10.28-16.30.44:287][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.628017s)
+[2025.10.28-16.30.44:710][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.28-16.30.44:714][157]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.30.44:717][157]LogPlayLevel: PIE: World Init took: (0.003938s)
+[2025.10.28-16.30.44:719][157]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.30.44:719][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.30.44:719][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.30.44:719][157]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.30.44:719][157]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.30.44:719][157]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.30.44:722][157]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.30.44:753][157]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.30.44:754][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.30.44:754][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.30.44:754][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.30.44:754][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.28-16.30.44:755][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.28-16.30.44:757][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.28-16.30.44:757][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.28-16.30.44:757][157]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.28-16.30.44:757][157]LogAudio: Display: Audio Device (ID: 15) registered with world 'ParkourMap'.
+[2025.10.28-16.30.44:757][157]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.28-16.30.44:761][157]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.30.45:115][157]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.30.45
+[2025.10.28-16.30.45:123][157]LogWorld: Bringing up level for play took: 0.362201
+[2025.10.28-16.30.45:125][157]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2025.10.28-16.30.45:142][157]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.30.45:143][157]PIE: Server logged in
+[2025.10.28-16.30.45:144][157]PIE: Play in editor total start time 1.485 seconds.
+[2025.10.28-16.30.45:271][157]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.30.45:271][157]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.30.45:271][157]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.30.49:710][258]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095037 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_1', movement 'Walking'
+[2025.10.28-16.31.37:186][360]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.31.37:186][360]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.31.39:527][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.31.39:527][542]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.31.39:533][542]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.31.39:628][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.31.39:641][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.31.39:662][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.31.40:437][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.31.40:447][542]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.28-16.31.40:448][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.28-16.31.40:449][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.10.28-16.31.40:534][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2025.10.28-16.31.40:673][543]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2025.10.28-16.32.26:798][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 84652.992188
+[2025.10.28-16.32.27:046][532]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.32.27:046][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 84653.195312, Update Interval: 358.359314
+[2025.10.28-16.33.49:704][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.33.49:704][351]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.33.50:332][351]LogPlayLevel: PIE: StaticDuplicateObject took: (0.627418s)
+[2025.10.28-16.33.50:332][351]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.627460s)
+[2025.10.28-16.33.50:747][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.10.28-16.33.50:749][351]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.33.50:753][351]LogPlayLevel: PIE: World Init took: (0.003812s)
+[2025.10.28-16.33.50:754][351]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.10.28-16.33.50:754][351]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.33.50:754][351]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.33.50:755][351]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.33.50:755][351]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.33.50:755][351]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.33.50:755][351]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.33.50:755][351]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.33.50:755][351]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.33.50:755][351]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.33.50:755][351]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.33.50:755][351]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.33.50:757][351]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.33.50:788][351]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.33.50:789][351]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.33.50:789][351]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.33.50:789][351]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.33.50:789][351]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.10.28-16.33.50:789][351]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.10.28-16.33.50:791][351]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.10.28-16.33.50:791][351]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.10.28-16.33.50:791][351]LogInit: FAudioDevice initialized with ID 16.
+[2025.10.28-16.33.50:791][351]LogAudio: Display: Audio Device (ID: 16) registered with world 'ParkourMap'.
+[2025.10.28-16.33.50:791][351]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.28-16.33.50:806][351]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.33.51:176][351]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.33.51
+[2025.10.28-16.33.51:183][351]LogWorld: Bringing up level for play took: 0.376994
+[2025.10.28-16.33.51:186][351]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.10.28-16.33.51:200][351]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.33.51:200][351]PIE: Server logged in
+[2025.10.28-16.33.51:204][351]PIE: Play in editor total start time 1.5 seconds.
+[2025.10.28-16.33.51:328][351]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.33.51:328][351]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.33.51:328][351]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.34.16:898][  8]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-16.34.27:995][289]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.34.27:995][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.34.31:244][526]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-16.34.31:244][526]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.28-16.34.31:259][526]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap"
+[2025.10.28-16.34.31:259][526]LogNet: Browse: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.34.31:259][526]LogLoad: LoadMap: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.34.31:259][526]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.34.31:402][526]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.34.31:493][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.34.32:018][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-16.34.32:100][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.10.28-16.34.32:120][526]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.34.32:749][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.628208s)
+[2025.10.28-16.34.32:749][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.628267s)
+[2025.10.28-16.34.32:749][526]LogAudio: Display: Audio Device (ID: 16) registered with world 'ParkourMap'.
+[2025.10.28-16.34.32:749][526]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.34.32:752][526]LogPlayLevel: PIE: World Init took: (0.003774s)
+[2025.10.28-16.34.32:753][526]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.34.33:103][526]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.34.33
+[2025.10.28-16.34.33:112][526]LogWorld: Bringing up level for play took: 0.358594
+[2025.10.28-16.34.33:127][526]LogLoad: Took 1.867630 seconds to LoadMap(/Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap)
+[2025.10.28-16.34.33:127][526]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.34.33:252][526]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.34.33:252][526]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.34.33:252][526]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.35.02:078][257]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098822 > MaxSimulationTimeStep (0.050) for 'BP_Player_C_1', movement 'Walking'
+[2025.10.28-16.36.36:469][344]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.36.36:470][344]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.36.40:584][650]Cmd: quit
+[2025.10.28-16.36.40:584][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.36.40:584][650]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.36.40:612][650]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.36.40:706][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.36.40:717][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.36.40:738][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.36.41:376][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.36.41:376][650]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.28-16.36.41:376][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.10.28-16.36.41:378][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.10.28-16.36.41:466][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2025.10.28-16.36.41:598][651]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.10.28-16.38.18:946][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-16.38.18:947][890]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.38.19:572][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.624614s)
+[2025.10.28-16.38.19:572][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.624664s)
+[2025.10.28-16.38.19:986][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.28-16.38.19:990][890]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.38.19:994][890]LogPlayLevel: PIE: World Init took: (0.004032s)
+[2025.10.28-16.38.19:996][890]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-16.38.19:996][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-16.38.19:996][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-16.38.19:996][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-16.38.19:996][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-16.38.19:996][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-16.38.19:998][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-16.38.20:029][890]LogAudioMixer: Display: Using Audio Hardware Device PHL27E1N1100A (NVIDIA High Definition Audio)
+[2025.10.28-16.38.20:029][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-16.38.20:029][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-16.38.20:029][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-16.38.20:030][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.10.28-16.38.20:030][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.10.28-16.38.20:032][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.10.28-16.38.20:032][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.10.28-16.38.20:032][890]LogInit: FAudioDevice initialized with ID 17.
+[2025.10.28-16.38.20:032][890]LogAudio: Display: Audio Device (ID: 17) registered with world 'ParkourMap'.
+[2025.10.28-16.38.20:032][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.28-16.38.20:037][890]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.38.20:383][890]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.38.20
+[2025.10.28-16.38.20:391][890]LogWorld: Bringing up level for play took: 0.354637
+[2025.10.28-16.38.20:395][890]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.10.28-16.38.20:409][890]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.10.28-16.38.20:410][890]PIE: Server logged in
+[2025.10.28-16.38.20:413][890]PIE: Play in editor total start time 1.466 seconds.
+[2025.10.28-16.38.20:539][890]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.38.20:539][890]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.38.20:539][890]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.39.02:394][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85046.492188
+[2025.10.28-16.39.02:671][933]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.39.02:671][933]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85046.726562, Update Interval: 305.595886
+[2025.10.28-16.40.22:392][690]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.40.22:392][690]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.40.23:723][787]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-16.40.23:723][787]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.28-16.40.23:738][787]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap"
+[2025.10.28-16.40.23:738][787]LogNet: Browse: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.40.23:738][787]LogLoad: LoadMap: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.40.23:738][787]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.40.23:877][787]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.40.23:964][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.40.24:430][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-16.40.24:505][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2025.10.28-16.40.24:527][787]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.40.25:144][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.617447s)
+[2025.10.28-16.40.25:144][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.617527s)
+[2025.10.28-16.40.25:144][787]LogAudio: Display: Audio Device (ID: 17) registered with world 'ParkourMap'.
+[2025.10.28-16.40.25:144][787]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.40.25:149][787]LogPlayLevel: PIE: World Init took: (0.004182s)
+[2025.10.28-16.40.25:150][787]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.40.25:490][787]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.40.25
+[2025.10.28-16.40.25:497][787]LogWorld: Bringing up level for play took: 0.347522
+[2025.10.28-16.40.25:511][787]LogLoad: Took 1.773407 seconds to LoadMap(/Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap)
+[2025.10.28-16.40.25:511][787]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.40.25:637][787]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.40.25:637][787]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.40.25:637][787]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.42.04:756][ 81]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.42.04:756][ 81]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.42.05:762][153]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.10.28-16.42.05:762][153]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.10.28-16.42.05:779][153]LogGlobalStatus: UEngine::Browse Started Browse: "/Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap"
+[2025.10.28-16.42.05:779][153]LogNet: Browse: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.42.05:779][153]LogLoad: LoadMap: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.42.05:779][153]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.42.05:913][153]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.42.05:994][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.42.06:475][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.28-16.42.06:553][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2025.10.28-16.42.06:573][153]LogPlayLevel: Creating play world package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.42.07:195][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.621019s)
+[2025.10.28-16.42.07:195][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.ParkourMap to /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap (0.621083s)
+[2025.10.28-16.42.07:195][153]LogAudio: Display: Audio Device (ID: 17) registered with world 'ParkourMap'.
+[2025.10.28-16.42.07:195][153]LogChaosDD: Creating Chaos Debug Draw Scene for world ParkourMap
+[2025.10.28-16.42.07:198][153]LogPlayLevel: PIE: World Init took: (0.003799s)
+[2025.10.28-16.42.07:199][153]LogLoad: Game class is 'GameModeBase'
+[2025.10.28-16.42.07:535][153]LogWorld: Bringing World /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap.ParkourMap up for play (max tick rate 0) at 2025.10.28-16.42.07
+[2025.10.28-16.42.07:543][153]LogWorld: Bringing up level for play took: 0.343552
+[2025.10.28-16.42.07:558][153]LogLoad: Took 1.779714 seconds to LoadMap(/Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap)
+[2025.10.28-16.42.07:559][153]LogGlobalStatus: UEngine::LoadMap Load map complete /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.42.07:695][154]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'WaterSound_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.42.07:695][154]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Rain'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.42.07:695][154]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'musicgame'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.10.28-16.44.43:002][691]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85395.257812
+[2025.10.28-16.44.43:362][699]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.44.43:362][699]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85395.585938, Update Interval: 356.876129
+[2025.10.28-16.45.18:659][470]LogCharacterMovement: BP_Player_C_1 is stuck and failed to move! Velocity: X=-353.59 Y=39.55 Z=0.00 Location: X=-5055.46 Y=-18793.61 Z=4283.32 Normal: X=0.58 Y=0.00 Z=0.81 PenetrationDepth:5.369 Actor:StaticMeshActor_2985 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2025.10.28-16.46.18:220][783]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.28-16.46.18:220][783]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2025.10.28-16.46.21:711][ 60]Cmd: quit
+[2025.10.28-16.46.21:711][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.46.21:711][ 60]LogWorld: BeginTearingDown for /Game/First-PersonParkourStarterKit/DemoContent/Maps/UEDPIE_0_ParkourMap
+[2025.10.28-16.46.21:741][ 60]LogWorld: UWorld::CleanupWorld for ParkourMap, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-16.46.21:832][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.46.21:843][ 60]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-16.46.21:861][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-16.46.22:443][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-16.46.22:471][ 60]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.28-16.46.22:471][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.10.28-16.46.22:474][ 60]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.10.28-16.46.22:564][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2025.10.28-16.46.22:723][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.10.28-16.51.14:633][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 85783.226562
+[2025.10.28-16.51.14:920][558]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-16.51.14:922][558]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 85783.460938, Update Interval: 333.384796
+[2025.10.28-16.52.29:093][228]Cmd: DELETE
+[2025.10.28-16.52.29:093][228]Cmd: ACTOR DELETE
+[2025.10.28-16.52.31:612][228]LogSlate: Window 'Delete Referenced Actor' being destroyed
+[2025.10.28-16.52.31:629][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.52.31:630][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.52.31:631][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.52.31:632][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.52.31:633][228]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-16.52.32:087][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.28-16.52.32:090][228]LogEditorActor: Deleted 5 Actors (0.647 secs)
+[2025.10.28-16.52.58:698][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.52.59:245][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.28-16.53.02:348][795]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.53.02:349][795]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap2062ACF54DCBA236453FD884CB106B6A.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.53.02:429][795]LogFileHelpers: All files are already saved.
+[2025.10.28-16.53.02:429][795]LogFileHelpers: Saving map 'ParkourMap' took 3.682
+[2025.10.28-16.53.02:466][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.76 sec (total: 3:25 min)
+[2025.10.28-16.53.02:584][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.53.02:584][795]LogContentValidation: Enabled validators:
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.53.02:584][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.53.02:587][795]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.53.27:076][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.53.27:602][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.28-16.53.30:689][345]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.53.30:689][345]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMapD8B4BB2047F7E1D3E70EF1A2851B3739.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.53.30:745][345]LogFileHelpers: All files are already saved.
+[2025.10.28-16.53.30:745][345]LogFileHelpers: Saving map 'ParkourMap' took 3.600
+[2025.10.28-16.53.30:782][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.70 sec (total: 3:29 min)
+[2025.10.28-16.53.30:882][345]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.53.30:882][345]LogContentValidation: Enabled validators:
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.53.30:883][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.53.30:887][345]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
+[2025.10.28-16.53.45:241][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-16.53.45:766][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.28-16.53.48:857][549]LogSavePackage: Moving output files for package: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap
+[2025.10.28-16.53.48:858][549]LogSavePackage: Moving 'D:/Blocktober2025/RisingThreatFP/Saved/ParkourMap8AC1823E4D107E97DD0DB2BEB70977EB.tmp' to 'D:/Blocktober2025/RisingThreatFP/Content/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap.umap'
+[2025.10.28-16.53.48:918][549]LogFileHelpers: All files are already saved.
+[2025.10.28-16.53.48:918][549]LogFileHelpers: Saving map 'ParkourMap' took 3.611
+[2025.10.28-16.53.48:956][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.71 sec (total: 3:33 min)
+[2025.10.28-16.53.49:080][549]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-16.53.49:080][549]LogContentValidation: Enabled validators:
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-16.53.49:080][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-16.53.49:084][549]AssetCheck: /Game/First-PersonParkourStarterKit/DemoContent/Maps/ParkourMap Validating asset
